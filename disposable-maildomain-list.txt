@@ -194,7 +194,6 @@ nospamthanks.info
 notmailinator.com
 nowmymail.com
 nurfuerspam.de
-nus.edu.sg
 objectmail.com
 obobbo.com
 oneoffemail.com
@@ -627,7 +626,6 @@ lroid.com
 luv2.us
 mail-easy.fr
 mail-filter.com
-mail-tester.com
 mail.wtf
 mail114.net
 mailbox80.biz
@@ -751,7 +749,6 @@ smashmail.de
 smellrear.com
 snkmail.com
 social-mailer.tk
-sohu.com
 solar-impact.pro
 solvemail.info
 soodomail.com
@@ -898,13 +895,7 @@ swift10minutemail.com
 rudymail.ml
 taglead.com
 spamarrest.com
-126.com
-139.com
-163.com
-hushmail.com
 lavabit.com
-yahoo.com.ph
-yahoo.com.vn
 o.opendns.ro
 ucupdong.ml
 eqilux.ga
@@ -1603,8 +1594,6 @@ ginzi.es
 ginzi.net
 ginzy.co.uk
 ginzy.eu
-gmial.com
-gmx.us
 gnctr-calgary.com
 gomail.in
 greggamel.com
@@ -1886,15 +1875,9 @@ wants.dicksinmyan.us
 allen.nom.za
 ebs.com.ar
 x1x.spb.ru
-188.com
-189.cn
 e-mail.net
 mailadadad.org
 popmailserv.org
-vip.188.com
-vip.sohu.com
-vip.sohu.net
-vip.tom.com
 ymail.net
 ymail.org
 game.com
@@ -1971,7 +1954,6 @@ ist-einmalig.de
 ist-ganz-allein.de
 ist-willig.de
 iwantmyname.com
-jesus.com
 jetable.de
 jetfix.ee
 junkmail.com
@@ -2099,7 +2081,6 @@ dveri-omsk.ru
 cool-item.ru
 mailistec.fr
 mal.ru
-yandex.com.tr
 pingle.net
 colegioaltair.net
 bizcox.net
@@ -2138,12 +2119,9 @@ student.su
 hu2.ru
 dezigner.ru
 c2kni.net
-expressmail.dk
 openmail.cc
 rrmail.ru
-openmailbox.org
 raharja.info
-mail2usa.com
 pit2.ru
 rpocc.ru
 ufaopen.ru
@@ -2251,7 +2229,6 @@ revenue.com
 dreamone.info
 palcam.cat
 scientist.com
-london.com
 carvingforyou.tk
 insestatut.cat
 keepstory.com
@@ -2351,7 +2328,6 @@ sina.com
 spamfinity.com
 celebrity-post.com
 celebrity-video-post.com
-gmx.com
 maskr.me
 vermersch.byethost8.com
 braunschweig.ru
@@ -2361,7 +2337,6 @@ vip.qq.com
 vip.sina.com
 l7b2l47k.com
 helved-moto.com
-devnull.facebook.com
 hoxty.com
 coxslot.com
 mail2tor.com
@@ -2369,3 +2344,4 @@ zf4r34ie.com
 bestkasino.info
 wegwerf-email.at
 mailbox92.biz
+mail-tester.com
