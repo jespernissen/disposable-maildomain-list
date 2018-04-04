@@ -1610,8 +1610,6 @@ tyrant.trillianpro.com
 zipzaprap.beerolympics.se
 a0e064.xsrv.jp
 itnewsflash.com
-cvideomail.com
-cowhosting.net
 jinkxter.com
 nospamthanks.com
 joliekemulder.nl
@@ -1628,7 +1626,6 @@ haribu.net
 vip.163.com
 vip.qq.com
 vip.sina.com
-hoxty.com
 mail2tor.com
 mailbox92.biz
 mail-tester.com
