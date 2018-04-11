@@ -50,7 +50,6 @@ fr33mail.info
 frapmail.com
 get1mail.com
 get2mail.fr
-ghosttexter.de
 gishpuppy.com
 greensloth.com
 gsrv.co.uk
@@ -189,7 +188,6 @@ SpamHerePlease.com
 spamify.com
 spaml.de
 spammotel.com
-spamoff.de
 spamslicer.com
 spamthis.co.uk
 speed.1s.fr
@@ -326,7 +324,6 @@ domforfb3.tk
 domforfb6.tk
 domforfb8.tk
 domozmail.com
-dotmsg.com
 dropmail.me
 duskmail.com
 e-mail.com
@@ -367,7 +364,6 @@ guerrillamail.info
 gustr.com
 harakirimail.com
 hartbot.de
-herp.in
 hmamail.com
 i2pmail.org
 ikbenspamvrij.nl
