@@ -1032,7 +1032,6 @@ freemail.hu
 ftp.sh
 ftpinc.ca
 fuirio.com
-fxnxs.com
 gaggle.net
 galaxy.tv
 gally.jp
@@ -1056,7 +1055,6 @@ gynzy.pl
 gynzy.ro
 gynzy.sk
 gzb.ro
-haribu.com
 headstrong.de
 heathenhammer.com
 hecat.es
@@ -1126,7 +1124,6 @@ nom.za
 nonze.ro
 notrnailinator.com
 o2stk.org
-ohi.tw
 okrent.us
 okzk.com
 omail.pro
@@ -1165,7 +1162,6 @@ rvb.ro
 sabrestlouis.com
 samsclass.info
 sanfinder.com
-sast.ro
 scay.net
 seekapps.com
 server.ms
