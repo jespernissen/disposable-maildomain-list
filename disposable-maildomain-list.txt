@@ -1706,7 +1706,6 @@ exmail.io
 getnada.com
 doanart.com
 caseedu.tk
-toon.ml
 dfg6.kozow.com
 lilylee.com
 nada.ltd
@@ -1776,7 +1775,6 @@ malove.site
 apssdc.ml
 gotimes.xyz
 e-mailbox.ga
-its0k.com
 qwfox.com
 mozej.com
 emailo.pro
@@ -1821,7 +1819,6 @@ skeefmail.com
 slopsbox.com
 spambob.com
 spambox.us
-spamcero.com
 spamfree24.de
 spamfree24.eu
 spamfree24.info
@@ -1995,13 +1992,11 @@ recyclemail.dk
 shieldedmail.com
 shut.name
 shut.ws
-skyfi.org.ru
 spambooger.com
 spamfighter.cf
 spamfighter.gq
 spamfighter.ml
 jnpayy.com
-ziyap.com
 ssoia.com
 stop-my-spam.cf
 stop-my-spam.com
@@ -2028,7 +2023,6 @@ vsimcard.com
 vztc.com
 walkmail.net
 wavemail.ir
-wegwerf-email.net
 wickmail.net
 writeme.us
 yapped.net
@@ -2038,7 +2032,6 @@ yourdomain.com
 wierie.tk
 zomg.info
 as.onlysext.com
-lackmail.ru
 euaqa.com
 688as.org
 laoeq.com
