@@ -889,7 +889,6 @@ votiputox.org
 vpn.st
 wasteland.rfc822.org
 wbml.net
-webtrip.ch
 wegwerfemail.com
 wg0.com
 whatifanalytics.com
@@ -919,7 +918,6 @@ cetpass.com
 erasf.com
 n.spamtrap.co
 s.bloq.ro
-anappfor.com
 crankmails.com
 u.dmarc.ro
 p.9q.ro
@@ -964,7 +962,6 @@ bartdevos.be
 bauwerke-online.com
 bcast.ws
 bearsarefuzzy.com
-betr.co
 bgx.ro
 bot.nu
 bulrushpress.com
@@ -1172,7 +1169,6 @@ thex.ro
 thnikka.com
 thunkinator.org
 tic.ec
-tormail.org
 toss.pw
 tosunkaya.com
 totalvista.com
