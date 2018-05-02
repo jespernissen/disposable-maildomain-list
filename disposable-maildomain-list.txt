@@ -53,7 +53,6 @@ get2mail.fr
 gishpuppy.com
 greensloth.com
 gsrv.co.uk
-guerillamail.biz
 guerrillamail.biz
 guerrillamail.com
 guerrillamail.de
@@ -101,7 +100,6 @@ mailmetrash.com
 mailmoat.com
 mailnesia.com
 mailnull.com
-mailshell.com
 mailsiphon.com
 mailzilla.com
 mega.zik.dj
@@ -375,7 +373,6 @@ instant-mail.de
 instantmail.fr
 ip4.pp.ua
 ip6.pp.ua
-iroid.com
 je-recycle.info
 jet-renovation.fr
 jetable.pp.ua
