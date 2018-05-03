@@ -2142,7 +2142,6 @@ matchpol.net
 mcache.net
 mciek.com
 mdhc.tk
-mechanicalresumes.com
 mfsa.info
 miaferrari.com
 moakt.co
@@ -2157,13 +2156,11 @@ myindohome.services
 mystvpn.com
 nbox.notif.me
 newbpotato.tk
-nnot.net
 nutpa.net
 nypato.com
 obfusko.com
 opendns.ro
 opmmedia.ga
-oreidresume.com
 outmail.win
 pakadebu.ga
 penoto.tk
@@ -2210,7 +2207,6 @@ bione.co
 bko.kr
 bonbon.net
 bongobongo.cf
-bugmenot.ml
 cid.kr
 cko.kr
 cocodani.cf
@@ -2254,7 +2250,6 @@ listomail.com
 lko.kr
 lom.kr
 loy.kr
-lpo.ddnsfree.com
 luo.kr
 mailhero.io
 mailmoth.com
@@ -2275,7 +2270,6 @@ mrresourcepacks.tk
 max88.club
 mymailjos.cf
 mymailto.cf
-naaughty.club
 napalm51.cf
 napalm51.ga
 napalm51.gq
@@ -2391,7 +2385,6 @@ bossmail.de
 cdnqa.com
 cem.net
 gfcom.com
-haqed.com
 libox.fr
 mallinator.com
 mindless.com
@@ -2420,7 +2413,6 @@ advantimal.com
 anonymous-email.net
 anonymousfeedback.net
 beerolympics.se
-checknew.pw
 imperfectron.com
 jsonp.ro
 linuxpl.eu
