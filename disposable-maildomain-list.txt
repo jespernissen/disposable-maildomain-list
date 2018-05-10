@@ -1247,7 +1247,6 @@ bigmir.net
 bin-wieder-da.de
 blah.com
 bleib-bei-mir.de
-bluebottle.com
 brainonfire.net
 brokenvalve.com
 buerotiger.de
@@ -1349,7 +1348,6 @@ shared-files.de
 shinedyoureyes.com
 sms.at
 sonnenkinder.org
-spameater.org
 sperke.net
 streber24.de
 terminverpennt.de
