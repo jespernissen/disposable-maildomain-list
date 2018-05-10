@@ -1885,8 +1885,6 @@ fake-mail.cf
 fakemail.fr
 flurred.com
 free-email.cf
-getairmail.gq
-getairmail.ml
 get-mail.ml
 getmails.eu
 gomail.in
@@ -1895,7 +1893,6 @@ sawoe.com
 ckoie.com
 loapq.com
 soioa.com
-hidzz.com
 cjpeg.com
 miauj.com
 hopemail.biz
