@@ -554,7 +554,6 @@ o.opendns.ro
 uacro.com
 redi.fr.nf
 sroff.com
-e.wupics.com
 hezll.com
 reddit.usa.cc
 psles.com
