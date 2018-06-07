@@ -1503,7 +1503,6 @@ evnodes.tk
 shortmail.me
 torba.com
 onstepbuts.tk
-oganilir.net
 dynamic-dns.net
 ssl443.org
 mypop3.org
@@ -1532,7 +1531,6 @@ newgmx.tk
 space-x.tk
 dinkesbondowoso.web.id
 digitalbox4.com
-c-recipe.biz
 inbox2u.com
 slub.us
 tightmail.com
@@ -1554,7 +1552,6 @@ nospamthanks.com
 joliekemulder.nl
 cata123.info
 ze.tc
-1s.fr
 spaces.ru
 breiner-online.de
 free.fr
