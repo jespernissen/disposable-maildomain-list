@@ -895,7 +895,6 @@ zepp.dk
 zxcxc.com
 urfey.com
 e.milavitsaromania.ro
-c.wlist.ro
 furusato.tokyo
 s.proprietativalcea.ro
 ppetw.com
@@ -953,7 +952,6 @@ bgx.ro
 bot.nu
 bulrushpress.com
 businesssuccessislifesuccess.com
-buspad.org
 cam4you.cc
 ceed.se
 chickenkiller.com
@@ -980,7 +978,6 @@ domforfb29.tk
 dred.ru
 drevo.si
 durandinterstellar.com
-dz17.net
 e3z.de
 easy-trash-mail.com
 ebeschlussbuch.de
@@ -996,7 +993,6 @@ fettometern.com
 film-blog.biz
 foxtrotter.info
 fr.nf
-freeletter.me
 freemail.hu
 ftp.sh
 ftpinc.ca
@@ -1035,7 +1031,6 @@ ht.cx
 humaility.com
 hvastudiesucces.nl
 icx.ro
-ige.es
 inboxdesign.me
 inboxstore.me
 incq.com
@@ -1078,7 +1073,6 @@ ml8.ca
 mm5.se
 moeri.org
 moot.es
-moreawesomethanyou.com
 motique.de
 mountainregionallibrary.net
 muchomail.com
@@ -1163,7 +1157,6 @@ ubm.md
 uk.to
 urfunktion.se
 us.to
-uu.gl
 vankin.de
 vda.ro
 veryday.ch
@@ -1186,7 +1179,6 @@ ycn.ro
 ye.vc
 yedi.org
 yodx.ro
-yoo.ro
 yougotgoated.com
 z0d.eu
 z86.ru
@@ -1224,7 +1216,6 @@ ymail.net
 ymail.org
 game.com
 ispyco.ru
-throwawayemail.com
 0sg.net
 abwesend.de
 alpenjodel.de
@@ -1273,11 +1264,9 @@ golfilla.info
 hab-verschlafen.de
 habmalnefrage.de
 herr-der-mails.de
-huajiachem.cn
 hushmail.me
 ich-bin-verrueckt-nach-dir.de
 ich-will-net.de
-ichimail.com
 ist-allein.info
 ist-einmalig.de
 ist-ganz-allein.de
@@ -1320,7 +1309,6 @@ office-dateien.de
 partybombe.de
 partyheld.de
 phreaker.net
-pisem.net
 polizisten-duzer.de
 postfach.cc
 prydirect.info
