@@ -577,7 +577,6 @@ andthen.us
 animesos.com
 anonmails.de
 anthony-junkmail.com
-antireg.ru
 appinventor.nl
 aron.us
 asspoo.com
@@ -685,7 +684,6 @@ greyjack.com
 habitue.net
 herpderp.nl
 hoanggiaanh.com
-hostmonitor.net
 hvtechnical.com
 ignoremail.com
 ihaxyour.info
@@ -720,14 +718,7 @@ mail.zp.ua
 mail1a.de
 mail707.com
 mailback.com
-mailbiz.biz
-mailde.de
-mailde.info
-mailms.com
-mailorg.org
-mailtome.de
 mailtv.net
-mailtv.tv
 malayalamdtp.com
 mansiondev.com
 markmurfin.com
@@ -741,7 +732,6 @@ midcoastsolutions.net
 midlertidig.com
 midlertidig.net
 midlertidig.org
-ministry-of-silly-walks.de
 miodonski.ch
 misterpinball.de
 moakt.ws
@@ -839,7 +829,6 @@ tempmail.de
 temp-mail.ru
 tempmailer.de
 temporarymailaddress.com
-theaviors.com
 thelimestones.com
 thespawningpool.com
 thietbivanphong.asia
