@@ -48,7 +48,6 @@ filzmail.com
 fr33mail.info
 frapmail.com
 get1mail.com
-get2mail.fr
 gishpuppy.com
 greensloth.com
 gsrv.co.uk
@@ -137,7 +136,6 @@ ordinaryamerican.net
 otherinbox.com
 ovpn.to
 owlpic.com
-pjjkp.com
 politikerclub.de
 privacy.net
 proxymail.eu
@@ -237,7 +235,6 @@ yopmail.net
 zippymail.info
 trbvm.com
 33mail.com
-maildrop.cc
 inboxalias.com
 spam4.me
 koszmail.pl
@@ -259,7 +256,6 @@ emeil.ir
 a45.in
 abyssmail.com
 add3000.pp.ua
-advantimo.com
 ahk.jp
 amail.com
 ano-mail.net
@@ -276,7 +272,6 @@ avia-tonic.fr
 azazazatashkent.tk
 bareed.ws
 barryogorman.com
-bccto.me
 beddly.com
 bigstring.com
 bongobongo.tk
@@ -311,7 +306,6 @@ discard.email
 disign-concept.eu
 disign-revelation.com
 dispomail.eu
-dispose.it
 dm.w3internet.co.uk
 dodsi.com
 domforfb3.tk
@@ -362,7 +356,6 @@ ikbenspamvrij.nl
 imgv.de
 immo-gerance.info
 imstations.com
-inbox.si
 inclusiveprogress.com
 infest.org
 inmynetwork.tk
