@@ -857,7 +857,6 @@ vmani.com
 vmpanda.com
 vpn.st
 wasteland.rfc822.org
-wbml.net
 wegwerfemail.com
 wg0.com
 whatifanalytics.com
@@ -878,7 +877,6 @@ zxcxc.com
 urfey.com
 e.milavitsaromania.ro
 furusato.tokyo
-s.proprietativalcea.ro
 ppetw.com
 c.andreihusanu.ro
 i.istii.ro
@@ -912,7 +910,6 @@ spamserver.tk
 abakiss.com
 adiq.eu
 agtx.net
-airsi.de
 alldirectbuy.com
 ama-trans.de
 amail4.me
@@ -948,7 +945,6 @@ de-a.org
 der-kombi.de
 derkombi.de
 derluxuswagen.de
-dhm.ro
 dildosfromspace.com
 dnses.ro
 dob.jp
@@ -1005,11 +1001,9 @@ gzb.ro
 headstrong.de
 heathenhammer.com
 hecat.es
-hi5.si
 hmail.us
 hmh.ro
 hs.vc
-ht.cx
 humaility.com
 hvastudiesucces.nl
 icx.ro
@@ -1109,7 +1103,6 @@ sanfinder.com
 scay.net
 seekapps.com
 server.ms
-shrib.com
 sin.cl
 sizzlemctwizzle.com
 sly.io
@@ -1126,7 +1119,6 @@ tb-on-line.net
 techemail.com
 tefl.ro
 thediamants.org
-thembones.com.au
 thex.ro
 thnikka.com
 thunkinator.org
