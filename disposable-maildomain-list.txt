@@ -1690,7 +1690,6 @@ five.emailfake.ml
 afrobacon.com
 anonymbox.com
 courrieltemporaire.com
-emailigo.de
 emailtemporario.com.br
 ephemail.net
 hotpop.com
@@ -1770,7 +1769,6 @@ fakeinbox.info
 govnomail.xyz
 dma.in-ulm.de
 jklasdf.com
-10mail.com
 10minute-email.com
 10minutemail.cf
 10minutemail.ga
@@ -1778,7 +1776,6 @@ jklasdf.com
 10minutemail.ml
 123-m.com
 12minutemail.com
-3mail.ga
 4mail.cf
 5mail.cf
 6mail.ml
@@ -1804,7 +1801,6 @@ drdrb.net
 dropcake.de
 emeil.cf
 email.net
-emailirani.ir
 spamtrap.co
 farfurmail.tk
 emailage.cf
