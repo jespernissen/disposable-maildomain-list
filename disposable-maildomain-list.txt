@@ -2623,7 +2623,6 @@ pay-pals.ml
 sennbox.cf
 storendite.co
 tarma.ga
-fiatgroup.ga
 secmail.ml
 supermail.cf
 volvo-s60.tk
@@ -2648,7 +2647,6 @@ raimuwedos.cf
 josprayugo291.tk
 firef0x.tk
 johnpo.ga
-ulahadigung.gq
 2kpda46zg.ml
 powerml.racing
 greencoepoe.cf
@@ -2659,7 +2657,6 @@ vemomail.win
 qwertymail.ml
 telekgaring.cf
 akusayyangkamusangat.ga
-fiat500.ml
 qwertyuiop.tk
 rohingga.xyz
 rapenakyodilakoni.cf
@@ -2670,7 +2667,6 @@ dwango.ml
 bojogalax.ga
 s0ny.gq
 g3nkzmailone.ga
-uk-unitedkingdom.ga
 josfrisca409.tk
 lambadarew90bb.gq
 wrysutgst57.ga
@@ -2681,7 +2677,6 @@ takeshobo.tk
 imamail1928.cf
 keykeykelynss.ga
 danceml.win
-amex-online.ga
 janganjadiabu8.ga
 johnpo.tk
 iwanbanjarworo.cf
@@ -2708,7 +2703,6 @@ tujimastr09lioj.ml
 aalna.org
 kuiljunyu69lio.cf
 ateng.ml
-mintemail.ga
 tempm.ml
 fun2night.club
 cool-your.pw
@@ -2720,7 +2714,6 @@ vprice.co
 giaoisgla35ta.cf
 ugreatejob.pw
 popsok.tk
-dr0pb0x.ga
 quaestore.co
 janganjadiabu3.ga
 kopiacehgayo15701806.tk
@@ -2748,9 +2741,7 @@ rollsroyce-plc.tk
 zumrotin.ml
 sandre.tk
 sennbox.ga
-daimlerag.ml
 secmail.gq
-daimlerag.gq
 petronas.cf
 dwango.gq
 sneakerbunko.ga
@@ -2778,12 +2769,10 @@ ceweknakal.ga
 bmw-mini.tk
 sssppua.tk
 rav-4.gq
-ab-volvo.cf
 aolinemail.ga
 ahmadidik.cf
 genk5mail2.ga
 ulahadigung.tk
-jaguar-landrover.cf
 oboymail.ga
 njelarubangilan.cf
 customersupportdepartment.ga
@@ -2797,7 +2786,6 @@ semangat99.cf
 vieebee.gq
 h1tler.tk
 thefirstticket.com
-firef0x.ml
 hasegawa.gq
 telukmeong3.ml
 keykeykelynss.tk
@@ -2813,19 +2801,15 @@ beteajah.ga
 koweancenjancok.ml
 luckjob.pw
 testoh.tk
-0nedrive.ml
 vieebee.cf
-daciasandero.gq
 maart.ml
 beeviee.cf
 fca-nv.tk
 aamanah.cf
-channel9.ml
 raiasu.cf
 sahrulselow.ml
 pilpres2018.tk
 astaghfirulloh.ga
-h2o-web.cf
 ekiikorea99.ga
 eur-sec1.tk
 janganjadiabu4.cf
@@ -2849,7 +2833,6 @@ tirreno.tk
 it-italy.tk
 kuingin.ml
 softbank.tk
-priceio.co
 logsutanti589.tk
 keykeykelyns.gq
 freeprice.co
@@ -2860,7 +2843,6 @@ kodemail.ga
 jembut142.ml
 bestfuture.pw
 raiasu.ga
-wwwmail.gq
 worldpetcare.cf
 perasut.us
 s0ny.ml
@@ -2868,7 +2850,6 @@ raimu.cf
 daimlerag.tk
 bestlucky.pw
 annalusi.cf
-sikomo.ml
 makasarpost.cf
 digiprice.co
 volvo-s60.cf
@@ -2895,7 +2876,6 @@ telekgaring.gq
 ndmail.cf
 nunungsaja.cf
 shorterurl.biz
-amex-online.ml
 gooday.pw
 richonedai.pw
 nokiahere.ga
@@ -2923,7 +2903,6 @@ maxprice.co
 suntory.gq
 storestean.co
 subaru-wrx.tk
-mailsac.gq
 eeemail.win
 jfgfgfgdfdder545yy.ml
 alfaromeo147.tk
@@ -2938,13 +2917,11 @@ ekii.cf
 nokiahere.tk
 jembut142.ga
 beeviee1.cf
-0nedrive.gq
 happyyou.pw
 best-day.pw
 cebong.ga
 dena.ga
 shittymail.cf
-ulahadigungproject.ml
 popsok.cf
 rollsroyce-plc.ga
 dennmail.win
