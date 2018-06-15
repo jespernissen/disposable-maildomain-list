@@ -1319,7 +1319,6 @@ vollbio.de
 volloeko.de
 vorsicht-bissig.de
 vorsicht-scharf.de
-vpnsmail.me
 war-im-urlaub.de
 weibsvolk.de
 weibsvolk.org
@@ -1430,17 +1429,6 @@ galaktikum.ru
 cyfroland.ru
 newtechnolo.ru
 wo.tc
-dyndns.biz
-dyndns.tv
-dyndns.info
-dyndns-at-home.com
-dyndns-at-work.com
-dyndns-home.com
-dyndns-office.com
-dyndns-web.com
-dyndns-blog.com
-dyndns-wiki.com
-dyndns-pics.com
 toneapi.com
 dlinkddns.com
 lawlz.net
@@ -1454,7 +1442,6 @@ ru.com
 colegiolosrosales.net
 co.cc
 saject.ru
-iht.or.id
 csproject.org
 poltekba.ac.id
 t28.net
