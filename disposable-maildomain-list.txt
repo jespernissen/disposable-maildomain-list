@@ -563,7 +563,6 @@ alph.wtf
 al-qaeda.us
 amazon-aws.org
 ampsylike.com
-an.id.au
 andthen.us
 animesos.com
 anonmails.de
@@ -733,12 +732,10 @@ mspeciosa.com
 msxd.com
 mtmdev.com
 mufux.com
-mustbedestroyed.org
 mwarner.org
 mycard.net.ua
 mycorneroftheinter.net
 mydemo.equipment
-myzx.com
 n1nja.org
 nabuma.com
 nanonym.ch
@@ -767,7 +764,6 @@ onelegalplan.com
 onlatedotcom.info
 oolus.com
 pastebitch.com
-penis.computer
 photomark.net
 pingir.com
 popesodomy.com
