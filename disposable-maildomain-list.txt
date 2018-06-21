@@ -29,7 +29,6 @@ devnullmail.com
 dfgh.net
 digitalsanctuary.com
 discardmail.com
-discardmail.de
 disposableaddress.com
 dispostable.com
 dodgit.com
@@ -67,7 +66,6 @@ inboxclean.org
 iwi.net
 jetable.fr.nf
 jetable.net
-jetable.org
 kasmail.com
 kaspop.com
 killmail.com
@@ -85,7 +83,6 @@ mail.by
 mail333.com
 mailbidon.com
 mailblocks.com
-mailcatch.com
 mailin8r.com
 mailinater.com
 mailinator.com
@@ -143,7 +140,6 @@ prtnx.com
 PutThisInYourSpamDatabase.com
 quickinbox.com
 rcpt.at
-recode.me
 recursor.net
 rtrtr.com
 s0ny.net
@@ -221,12 +217,10 @@ wegwerfmail.de
 wegwerfmail.net
 wegwerfmail.org
 wh4f.org
-winemaven.info
 wronghead.com
 www.e4ward.com
 wwwnew.eu
 xemaps.com
-xmaily.com
 xoxy.net
 yep.it
 yopmail.com
@@ -257,10 +251,8 @@ a45.in
 abyssmail.com
 add3000.pp.ua
 ahk.jp
-amail.com
 ano-mail.net
 anon.leemail.me
-anonymize.com
 anotherdomaincyka.tk
 armyspy.com
 art-en-ligne.pro
@@ -370,7 +362,6 @@ jsrsolutions.com
 knol-power.nl
 landmail.co
 last-chance.pro
-lastmail.co
 lazyinbox.com
 liveradio.tk
 loh.pp.ua
