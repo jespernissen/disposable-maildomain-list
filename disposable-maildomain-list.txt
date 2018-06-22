@@ -1744,8 +1744,6 @@ spamtrap.ro
 mankyrecords.com
 tm2mail.com
 mailbox52.ga
-ugimail.net
-mail4-us.org
 fakeinbox.info
 govnomail.xyz
 dma.in-ulm.de
@@ -1909,13 +1907,10 @@ btizet.pl
 cavi.mx
 cbair.com
 cheaphub.net
-chibakenma.ml
 ckiso.com
 cocovpn.com
 coreclip.com
 crazespaces.pw
-cross-law.ga
-cross-law.gq
 crusthost.com
 curlhph.tk
 d1yun.com
@@ -1931,7 +1926,6 @@ dmarc.ro
 dndent.com
 domforfb9.tk
 dr69.site
-email-temp.com
 emailfake.nut.cc
 emailfreedom.ml
 emailsecurer.com
@@ -1943,10 +1937,6 @@ evyush.com
 fddns.ml
 flemail.ru
 foobarbot.net
-foreskin.cf
-foreskin.ga
-foreskin.gq
-foreskin.ml
 foreskin.tk
 foxja.com
 freeplumpervideos.com
