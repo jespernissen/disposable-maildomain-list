@@ -966,7 +966,6 @@ hs.vc
 humaility.com
 hvastudiesucces.nl
 icx.ro
-inboxdesign.me
 inboxstore.me
 incq.com
 ind.st
@@ -979,7 +978,6 @@ jpco.org
 jwork.ru
 kakadua.net
 keipino.de
-kludgemush.com
 kopagas.com
 krypton.tk
 lain.ch
@@ -1075,7 +1073,6 @@ superplatyna.com
 svxr.org
 tb-on-line.net
 techemail.com
-tefl.ro
 thediamants.org
 thex.ro
 thnikka.com
@@ -1143,7 +1140,6 @@ wants.dicksinmyan.us
 allen.nom.za
 ebs.com.ar
 e-mail.net
-ymail.net
 ymail.org
 game.com
 ispyco.ru
