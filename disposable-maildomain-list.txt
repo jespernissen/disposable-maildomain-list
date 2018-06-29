@@ -1354,7 +1354,6 @@ gonna.ru
 ieszallabhi.net
 ostents.com
 e3b.org
-the.su
 bumail.net
 alumnosmontserrat.es
 iespv.com
@@ -1411,7 +1410,6 @@ izvor.ru
 mooo.com
 ferrok.tk
 evnodes.tk
-shortmail.me
 torba.com
 onstepbuts.tk
 dynamic-dns.net
@@ -1432,8 +1430,6 @@ koler1988.mail.ua
 ojooo.com
 herty1.mail.ua
 innapol.mail.ua
-no-ip.be
-vu.cx
 danielcastelao.org
 toperg.tk
 domen.4pu.com
