@@ -1932,7 +1932,6 @@ justemail.ml
 kademen.com
 kadokawa.tk
 katztube.com
-kekita.com
 kiani.com
 kiois.com
 krsw.tk
@@ -1981,8 +1980,6 @@ s33db0x.com
 safermail.info
 salmeow.tk
 sanstr.com
-satisfyme.club
-seekjobs4u.com
 shalar.net
 shotmail.ru
 1e72.com
@@ -2007,7 +2004,6 @@ discard-email.cf
 dko.kr
 dot-ml.tk
 doy.kr
-e.blogspam.ro
 efo.kr
 eho.kr
 ely.kr
@@ -2123,7 +2119,6 @@ doxcity.net
 eonmech.com
 fastmailforyou.net
 flurre.com
-foquita.com
 francanet.com.br
 germanmails.biz
 gnail.pw
@@ -2158,11 +2153,9 @@ zasod.com
 bossmail.de
 cdnqa.com
 cem.net
-gfcom.com
 libox.fr
 mallinator.com
 mindless.com
-renraku.in
 temp-mail.net
 temp15qm.com
 vmail.me
@@ -2206,15 +2199,12 @@ sluteen.com
 smellypotato.tk
 storj99.com
 storj99.top
-taphear.com
-tech69.com
 temp-mails.com
 tempmail.pp.ua
 tmpmail.org
 topinrock.cf
 trashmail.io
 ushijima1129.tk
-vipepe.com
 visal007.tk
 visal168.tk
 webmail.igg.biz
@@ -2227,7 +2217,6 @@ yahmail.top
 yamail.win
 yannmail.win
 youremail.cf
-zipcad.com
 etzdnetx.com
 ikkjacket.com
 prayersa3.com
@@ -2240,8 +2229,6 @@ s8sigmao.com
 71compete.com
 petertijj.com
 b5safaria.com
-trobertqs.com
-2viewerl.com
 555gmail.com
 m2r60ff.com
 g212dnk5.com
@@ -2254,7 +2241,6 @@ icloid.com
 qpptplypblyp052.cf
 tukupedia.co
 jeep-official.tk
-bestday.pw
 raimuwedos.gq
 apoyrwyr.gq
 joshendriyawati219.tk
@@ -2314,12 +2300,10 @@ iqemail.win
 icetmail.ga
 persebaya1981.cf
 bgisfri.pw
-rav-4.ga
 gitumau.ml
 keykeykelynz.gq
 zrmail.ml
 pasukanganas.tk
-icraftx.net
 666-satan.tk
 fujitv.cf
 alenovita373.tk
@@ -2341,7 +2325,6 @@ wirawan.cf
 successforu.pw
 pgioa4ta46.ga
 sellim.site
-joasantos.ga
 udns.gq
 kodaka.gq
 polres-aeknabara.cf
@@ -2362,7 +2345,6 @@ ekiibetekorea.tk
 didikselowcoffee.ml
 qqzymail.win
 nbhsssib.fun
-nomeucu.ga
 orange-bonplan.com
 demandfull.date
 volvo-ab.tk
