@@ -1320,7 +1320,6 @@ leet.la
 bigbox.info
 uk.is
 g33k.com.ve
-360technologies.ca
 otherstar.com
 higimo.ru
 infis.net.ru
@@ -1365,7 +1364,6 @@ pelatihanbisnis.tk
 ru.com
 colegiolosrosales.net
 co.cc
-saject.ru
 csproject.org
 poltekba.ac.id
 t28.net
@@ -1398,7 +1396,6 @@ cleansite.info
 cleansite.biz
 authorizeddns.us
 authorizeddns.org
-authorizeddns.net
 changeip.org
 h1x.com
 koler1988.mail.ua
