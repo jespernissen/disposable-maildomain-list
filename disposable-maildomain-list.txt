@@ -5,7 +5,6 @@
 20minutemail.com
 2prong.com
 4warding.net
-7tags.com
 9ox.net
 a-bc.net
 amiri.net
@@ -72,7 +71,6 @@ killmail.com
 klassmaster.com
 klzlk.com
 kurzepost.de
-letthemeatspam.com
 lhsdv.com
 lol.ovpn.to
 lookugly.com
@@ -80,7 +78,6 @@ lortemail.dk
 lr78.com
 mail-temporaire.fr
 mail.by
-mail333.com
 mailbidon.com
 mailblocks.com
 mailin8r.com
@@ -101,7 +98,6 @@ mega.zik.dj
 meinspamschutz.de
 meltmail.com
 messagebeamer.de
-mintemail.com
 moburl.com
 moncourrier.fr.nf
 monemail.fr.nf
@@ -170,7 +166,6 @@ spamcowboy.com
 spamcowboy.net
 spamcowboy.org
 spamex.com
-spamfree24.com
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
@@ -183,11 +178,9 @@ spamthis.co.uk
 speed.1s.fr
 supermailer.jp
 tempe-mail.com
-tempemail.biz
 TempEMail.net
 tempinbox.co.uk
 tempinbox.com
-tempmail.it
 tempomail.fr
 temporarioemail.com.br
 thankyou2010.com
@@ -245,7 +238,6 @@ emeil.ir
 99experts.com
 a45.in
 abyssmail.com
-add3000.pp.ua
 ahk.jp
 ano-mail.net
 anon.leemail.me
@@ -259,7 +251,6 @@ azazazatashkent.tk
 bareed.ws
 barryogorman.com
 beddly.com
-bigstring.com
 bongobongo.tk
 boun.cr
 bouncr.com
@@ -270,7 +261,6 @@ byom.de
 c2.hu
 cellurl.com
 chacuo.net
-chammy.info
 cheatmail.de
 chechnya.conf.work
 chong-mail.net
@@ -296,7 +286,6 @@ domforfb6.tk
 domforfb8.tk
 domozmail.com
 dropmail.me
-duskmail.com
 e-mail.com
 e-mail.org
 easytrashmail.com
@@ -366,7 +355,6 @@ mailismagic.com
 mailmate.com
 mailme24.com
 mailproxsy.com
-mailrock.biz
 mailsac.com
 mailtemp.info
 mailtothis.com
