@@ -366,7 +366,6 @@ moakt.com
 mobileninja.co.uk
 monumentmail.com
 mor19.uu.gl
-mox.pp.ua
 mt2015.com
 muehlacker.tk
 mvrht.com
@@ -375,7 +374,6 @@ mypacks.net
 mytemp.email
 mytempemail.com
 napalm51.tk
-nonspammer.de
 notsharingmy.info
 nowhere.org
 ntlhelp.net
@@ -413,7 +411,6 @@ smap.4nmv.ru
 smashmail.de
 snkmail.com
 social-mailer.tk
-solvemail.info
 soodomail.com
 spam.2012-2016.ru
 spamdecoy.net
@@ -466,7 +463,6 @@ vubby.com
 wazabi.club
 web-contact.info
 web-emailbox.eu
-web-mail.pp.ua
 webcontact-france.eu
 wee.my
 weg-werf-email.de
@@ -474,14 +470,11 @@ wegwerf-emails.de
 wegwerfmail.info
 wegwerpmailadres.nl
 wfgdfhj.tk
-whatiaas.com
-whatsaas.com
 whtjddn.33mail.com
 xing886.uu.gl
 xww.ro
 yeah.net
 yomail.info
-yopmail.pp.ua
 z1p.biz
 za.com
 zaktouni.fr
@@ -657,7 +650,6 @@ joetestalot.com
 jyliananderik.com
 kah.pw
 kcrw.de
-kennedy808.com
 kitten-mittons.com
 kommunity.biz
 kosmetik-obatkuat.com
@@ -701,7 +693,6 @@ nabuma.com
 nanonym.ch
 netris.net
 nguyenusedcars.com
-nincsmail.com
 nincsmail.hu
 niwl.net
 nl.szucsati.net
