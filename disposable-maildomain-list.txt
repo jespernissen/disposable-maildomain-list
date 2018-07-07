@@ -2810,7 +2810,6 @@ fakemail.com
 aaathats3as.com
 8191.at
 900k.es
-a.a.fbmail.usa.cc
 acgapp.hk
 airmail.cc
 afmail.com
@@ -2853,7 +2852,6 @@ disbox.net
 discard.ga
 discard.gq
 discordmail.com
-drama.tw
 endrix.org
 ether123.net
 ethersports.org
@@ -2886,10 +2884,6 @@ labo.ch
 ladymacbeth.tk
 leemail.me
 letsmail9.com
-london2.space
-mail2.space
-mail22.space
-mail-fake.com
 mailinator.pl
 mailtemp.net
 malibucoding.com
@@ -2905,7 +2899,6 @@ msgden.com
 msgsafe.ninja
 muimail.com
 nacho.pw
-nezdiro.org
 nicewoodenbaskets.com
 nie-podam.pl
 nodie.cc
@@ -2916,7 +2909,6 @@ onemoremail.net
 orangotango.tk
 partskyline.com
 payperex2.com
-pc1520.com
 pcmylife.com
 peapz.com
 podam.pl
@@ -2940,10 +2932,7 @@ sohu.net
 stealthypost.org
 szucsati.net
 techmail.info
-temp1.club
-temp2.club
 tempemails.io
-tempmail.space
 tinoza.org
 theopposition.club
 theplug.org
