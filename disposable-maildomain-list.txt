@@ -424,7 +424,6 @@ sudomail.biz
 sudomail.com
 sudomail.net
 sudoverse.com
-sudoverse.net
 sudoweb.net
 sudoworld.com
 sudoworld.net
@@ -545,7 +544,6 @@ bspamfree.org
 bum.net
 bunchofidiots.com
 bunsenhoneydew.com
-buygapfashion.com
 buymoreplays.com
 bwa33.net
 byebyemail.com
@@ -579,7 +577,6 @@ degradedfun.net
 digitalmariachis.com
 dinkmail.com
 disario.info
-doquier.tk
 drynic.com
 dspwebservices.com
 dt.com
@@ -597,7 +594,6 @@ faithkills.org
 fartwallet.com
 faze.biz
 fetchnet.co.uk
-figshot.com
 fingermouse.org
 flowu.com
 flyinggeek.net
@@ -626,7 +622,6 @@ herpderp.nl
 hvtechnical.com
 ignoremail.com
 ihaxyour.info
-ilovespam.com
 inapplicable.org
 infocom.zp.ua
 ip6.li
@@ -641,7 +636,6 @@ joelpet.com
 joetestalot.com
 jyliananderik.com
 kah.pw
-kcrw.de
 kitten-mittons.com
 kommunity.biz
 kosmetik-obatkuat.com
@@ -700,8 +694,6 @@ oerpub.org
 offshore-proxies.net
 omnievents.org
 onebiginbox.com
-onelegalplan.com
-onlatedotcom.info
 oolus.com
 pastebitch.com
 photomark.net
@@ -709,7 +701,6 @@ pingir.com
 popesodomy.com
 primabananen.net
 projectcl.com
-propscore.com
 pumps-fashion.com
 purelogistics.org
 pwp.lv
@@ -776,7 +767,6 @@ valhalladev.com
 verdejo.com
 vinernet.com
 viralplays.com
-vixletdev.com
 vmani.com
 vmpanda.com
 vpn.st
