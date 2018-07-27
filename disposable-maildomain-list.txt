@@ -55,7 +55,6 @@ guerrillamail.de
 guerrillamail.net
 guerrillamail.org
 guerrillamailblock.com
-haltospam.com
 hatespam.org
 hidemail.de
 hulapla.de
@@ -65,8 +64,6 @@ inboxclean.org
 iwi.net
 jetable.fr.nf
 jetable.net
-kasmail.com
-kaspop.com
 killmail.com
 klassmaster.com
 klzlk.com
