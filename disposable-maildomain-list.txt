@@ -799,7 +799,6 @@ n.spamtrap.co
 s.bloq.ro
 crankmails.com
 u.dmarc.ro
-p.9q.ro
 zhcne.com
 u.0u.ro
 v.0v.ro
@@ -836,7 +835,6 @@ asu.mx
 autotwollow.com
 awatum.de
 azcomputerworks.com
-bartdevos.be
 bauwerke-online.com
 bcast.ws
 bearsarefuzzy.com
@@ -904,7 +902,6 @@ gynzy.at
 gynzy.es
 gynzy.eu
 gynzy.gr
-gynzy.info
 gynzy.lt
 gynzy.mobi
 gynzy.pl
@@ -955,7 +952,6 @@ mailhz.me
 mailtemporaire.com
 mailtemporaire.fr
 mijnhva.nl
-mji.ro
 ml8.ca
 mm5.se
 moeri.org
