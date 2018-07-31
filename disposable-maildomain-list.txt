@@ -2862,10 +2862,6 @@ cuentas.shop
 carsencyclopedia.com
 chalupaurybnicku.cz
 daibond.info
-dev-null.cf
-dev-null.ga
-dev-null.gq
-dev-null.ml
 dongqing365.com
 e-tomarigi.com
 imul.info
@@ -2873,8 +2869,6 @@ macromice.info
 matamuasu.ga
 nolemail.ga
 spamwc.cf
-svip520.cn
-trashmail.gq
 qeispacesq.com
 wmlorgana.com
 ewroteed.com
