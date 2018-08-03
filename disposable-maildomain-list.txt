@@ -788,7 +788,6 @@ urfey.com
 e.milavitsaromania.ro
 furusato.tokyo
 ppetw.com
-c.andreihusanu.ro
 cetpass.com
 erasf.com
 n.spamtrap.co
@@ -894,15 +893,8 @@ ginzi.net
 ginzy.eu
 greggamel.com
 grish.de
-gynzy.at
 gynzy.es
 gynzy.eu
-gynzy.gr
-gynzy.lt
-gynzy.mobi
-gynzy.pl
-gynzy.ro
-gynzy.sk
 gzb.ro
 headstrong.de
 heathenhammer.com
@@ -1048,7 +1040,6 @@ xrho.com
 xwaretech.com
 ycare.de
 ycn.ro
-ye.vc
 yedi.org
 yodx.ro
 yougotgoated.com
