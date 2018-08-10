@@ -382,7 +382,6 @@ phpbb.uu.gl
 pokemail.net
 privymail.de
 quickmail.nl
-reality-concept.club
 reallymymail.com
 reconmail.com
 regspaces.tk
@@ -453,7 +452,6 @@ vfemail.net
 vickaentb.tk
 vomoto.com
 vubby.com
-wazabi.club
 web-contact.info
 web-emailbox.eu
 webcontact-france.eu
@@ -706,7 +704,6 @@ querydirect.com
 raetp9.com
 rainwaterstudios.org
 raketenmann.de
-realtyalerts.ca
 redpeanut.com
 reliable-mail.com
 remote.li
