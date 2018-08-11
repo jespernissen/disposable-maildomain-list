@@ -1408,7 +1408,6 @@ szerz.com
 15qm-mail.red
 15qm.com
 cookiecooker.de
-freemeil.tk
 googdad.tk
 vihost.tk
 email-fake.com
@@ -1488,7 +1487,6 @@ mytrashmailer.com
 contbay.com
 damnthespam.com
 tempr.email
-sohai.ml
 wikidocuslava.ru
 absolutesuccess.win
 jumonji.tk
@@ -1646,7 +1644,6 @@ sawoe.com
 ckoie.com
 loapq.com
 soioa.com
-cjpeg.com
 miauj.com
 hopemail.biz
 tqoai.com
@@ -1772,7 +1769,6 @@ freeplumpervideos.com
 funnymail.de
 gafy.net
 gamgling.com
-gbcmail.win
 geekforex.com
 geew.ru
 gen.uu.gl
@@ -1782,7 +1778,6 @@ gmatch.org
 gmx.fr.nf
 golemico.com
 hackthatbit.ch
-hccmail.win
 hidebox.org
 iaoss.com
 ihazspam.ca
@@ -2837,3 +2832,4 @@ nuo.co.kr
 storeyee.com
 tko.co.kr
 harvard-ac-uk.tk
+nwytg.net
