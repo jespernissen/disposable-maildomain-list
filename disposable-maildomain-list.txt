@@ -292,14 +292,12 @@ eyepaste.com
 fake-email.pp.ua
 fakemailz.com
 fantasymail.de
-fast-mail.fr
 fatflap.com
 ficken.de
 fightallspam.com
 flashbox.5july.org
 fleckens.hu
 forgetmail.com
-freelance-france.eu
 freemails.ml
 freundin.ru
 friendlymail.co.uk
@@ -322,7 +320,6 @@ immo-gerance.info
 imstations.com
 inclusiveprogress.com
 inmynetwork.tk
-instantmail.fr
 ip6.pp.ua
 je-recycle.info
 jetable.pp.ua
@@ -334,7 +331,6 @@ lazyinbox.com
 liveradio.tk
 loh.pp.ua
 lolfreak.net
-mail-easy.fr
 mail-filter.com
 mail114.net
 maildx.com
