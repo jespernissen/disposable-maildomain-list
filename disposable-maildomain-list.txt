@@ -398,7 +398,6 @@ slipry.net
 smap.4nmv.ru
 smashmail.de
 snkmail.com
-social-mailer.tk
 soodomail.com
 spam.2012-2016.ru
 spamdecoy.net
@@ -448,8 +447,6 @@ vickaentb.tk
 vomoto.com
 vubby.com
 web-contact.info
-web-emailbox.eu
-webcontact-france.eu
 wee.my
 weg-werf-email.de
 wegwerf-emails.de
