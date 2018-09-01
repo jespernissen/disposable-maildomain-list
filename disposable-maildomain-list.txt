@@ -7,7 +7,6 @@
 4warding.net
 9ox.net
 a-bc.net
-amiri.net
 antichef.com
 antichef.net
 antispam.de
@@ -340,7 +339,6 @@ mailfs.com
 mailguard.me
 mailimate.com
 mailinatar.com
-mailinator.org
 mailismagic.com
 mailmate.com
 mailme24.com
