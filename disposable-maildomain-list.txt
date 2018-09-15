@@ -35,7 +35,6 @@ dontsendmespam.de
 dumpandjunk.com
 dumpyemail.com
 e4ward.com
-emailias.com
 emailinfive.com
 emailsensei.com
 emailwarden.com
@@ -134,7 +133,6 @@ quickinbox.com
 rcpt.at
 recursor.net
 rtrtr.com
-s0ny.net
 safe-mail.net
 safersignup.de
 safetymail.info
