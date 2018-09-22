@@ -758,18 +758,12 @@ zane.rocks
 zepp.dk
 zxcxc.com
 urfey.com
-e.milavitsaromania.ro
 furusato.tokyo
 ppetw.com
 cetpass.com
 erasf.com
-n.spamtrap.co
-s.bloq.ro
 crankmails.com
-u.dmarc.ro
 zhcne.com
-u.0u.ro
-v.0v.ro
 emailfake.ml
 2.emailfake.ml
 holl.ga
@@ -799,7 +793,6 @@ apfelkorps.de
 appc.se
 apps.dj
 arvato-community.de
-asu.mx
 autotwollow.com
 awatum.de
 azcomputerworks.com
@@ -825,7 +818,6 @@ der-kombi.de
 derkombi.de
 derluxuswagen.de
 dildosfromspace.com
-dnses.ro
 dob.jp
 domforfb18.tk
 domforfb19.tk
@@ -858,7 +850,6 @@ gaggle.net
 galaxy.tv
 gally.jp
 garbagemail.org
-gardenscape.ca
 garizo.com
 geteit.com
 ginzi.be
@@ -1087,7 +1078,6 @@ fastermail.com
 feinripptraeger.de
 fettabernett.de
 freudenkinder.de
-fromru.com
 fuckyou.com
 gentlemansclub.de
 golfilla.info
@@ -1118,7 +1108,6 @@ mail.me
 mail.misterpinball.de
 mail.sequentialx.com
 mail.svenz.eu
-mail15.com
 mail4u.info
 mailinblack.com
 mailueberfall.de
