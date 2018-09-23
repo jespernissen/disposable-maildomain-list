@@ -1359,10 +1359,7 @@ mysafemailer.be
 isdaq.com
 laoho.com
 itmtx.com
-i.xcode.ro
 tvchd.com
-o.cfo2go.ro
-v.jsonp.ro
 glubex.com
 szerz.com
 5ymail.com
@@ -1449,7 +1446,6 @@ jumonji.tk
 i6.cloudns.cc
 i6.cloudns.cx
 posta.store
-kodorsex.cf
 trashmails.com
 zubacteriax.com
 wmail.club
@@ -1538,9 +1534,6 @@ fuwamofu.com
 macr2.com
 f5.si
 ruru.be
-cfo2go.ro
-wupics.com
-spamtrap.ro
 tm2mail.com
 mailbox52.ga
 fakeinbox.info
@@ -1575,7 +1568,6 @@ drdrb.net
 dropcake.de
 emeil.cf
 email.net
-spamtrap.co
 farfurmail.tk
 emailage.cf
 email-fake.cf
@@ -1668,7 +1660,6 @@ laoeq.com
 vps30.com
 hvzoi.com
 hu4ht.com
-0v.ro
 10minut.xyz
 10minutemail.be
 10minutemail.nl
@@ -1698,7 +1689,6 @@ disbox.org
 divad.ga
 diwaq.com
 dlemail.ru
-dmarc.ro
 dndent.com
 domforfb9.tk
 dr69.site
