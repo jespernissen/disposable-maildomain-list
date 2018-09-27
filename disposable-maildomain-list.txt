@@ -2909,7 +2909,6 @@ bugmenever.com
 fake-mail.ml
 freemails.ga
 guerillamailblock.com
-lol.com
 mytempmail.com
 services391.com
 shieldedmail.com
@@ -2929,7 +2928,6 @@ mfsa.ru
 moreawesomethanyou.com
 msgos.com
 nomail.ga
-ohi.tw
 reality-concept.club
 tellos.xyz
 wazabi.club
@@ -2939,9 +2937,6 @@ abusemail.de
 babau.flu.cc
 boatmail.us
 fastemails.us
-freemeil.ga
-freemeil.gq
-freemeil.ml
 hidemail.us
 hoer.pw
 hostcalls.com
