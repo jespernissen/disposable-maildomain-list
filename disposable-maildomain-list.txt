@@ -1542,7 +1542,6 @@ dma.in-ulm.de
 12minutemail.com
 4mail.cf
 5mail.cf
-6mail.ml
 7mail.ml
 9mail.cf
 akerd.com
@@ -1575,7 +1574,6 @@ fake-mail.cf
 fakemail.fr
 flurred.com
 free-email.cf
-get-mail.ml
 getmails.eu
 gomail.in
 gotmail.com
@@ -1601,8 +1599,6 @@ maildrop.cf
 maileimer.de
 mailfree.ml
 mailjunk.cf
-mailjunk.gq
-mailjunk.ml
 mailpick.biz
 mailtrash.net
 mailwithyou.com
@@ -1621,12 +1617,8 @@ shut.name
 shut.ws
 spambooger.com
 spamfighter.cf
-spamfighter.gq
-spamfighter.ml
 stop-my-spam.cf
 stop-my-spam.com
-stop-my-spam.ga
-stop-my-spam.ml
 tagyourself.com
 techgroup.me
 tempymail.com
@@ -1634,7 +1626,6 @@ thismail.net
 throam.com
 throwawaymail.com
 trash-mail.cf
-trash-mail.gq
 trickmail.net
 uyhip.com
 valemail.net
