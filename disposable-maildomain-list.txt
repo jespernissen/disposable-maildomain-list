@@ -781,7 +781,6 @@ agtx.net
 alldirectbuy.com
 ama-trans.de
 amail4.me
-anit.ro
 anon-mail.de
 apfelkorps.de
 appc.se
@@ -905,11 +904,9 @@ muchomail.com
 mybitti.de
 naver.com
 negated.com
-net.ua
 netricity.nl
 nfast.net
 nom.za
-nonze.ro
 notrnailinator.com
 okrent.us
 okzk.com
@@ -998,7 +995,6 @@ z86.ru
 zebins.com
 zebins.eu
 zik.dj
-zp.ua
 no-spam.hu
 420blaze.it
 8chan.co
