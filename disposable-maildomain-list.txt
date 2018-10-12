@@ -2843,7 +2843,6 @@ rejectmail.com
 rklips.com
 s0ny.net
 saynotospams.com
-selfdestructingmail.com
 spambob.org
 spambox.info
 spamfree24.net
@@ -2864,7 +2863,6 @@ freemails.ga
 guerillamailblock.com
 mytempmail.com
 services391.com
-shieldedmail.com
 sry.li
 wetrainbayarea.com
 wetrainbayarea.org
@@ -2878,13 +2876,11 @@ foreskin.ga
 foreskin.ml
 inoutmail.de
 mfsa.ru
-moreawesomethanyou.com
 msgos.com
 nomail.ga
 reality-concept.club
 tellos.xyz
 wazabi.club
-zehnminutenmail.de
 20mail.in
 abusemail.de
 babau.flu.cc
