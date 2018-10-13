@@ -367,7 +367,6 @@ pokemail.net
 privymail.de
 quickmail.nl
 reallymymail.com
-reconmail.com
 regspaces.tk
 resgedvgfed.tk
 rhyta.com
@@ -395,8 +394,6 @@ spoofmail.de
 spybox.de
 startkeys.com
 stinkefinger.net
-stop-my-spam.pp.ua
-streetwisemail.com
 stuffmail.de
 sudolife.me
 sudolife.net
@@ -514,7 +511,6 @@ breakthru.com
 bspamfree.org
 bum.net
 bunchofidiots.com
-bunsenhoneydew.com
 buymoreplays.com
 bwa33.net
 byebyemail.com
@@ -552,7 +548,6 @@ drynic.com
 dspwebservices.com
 dt.com
 eastwan.net
-eatrnet.com
 eco.ilmale.it
 eintagsmail.de
 emailsingularity.net
@@ -587,7 +582,6 @@ gregorygamel.net
 greyjack.com
 habitue.net
 herpderp.nl
-hvtechnical.com
 ignoremail.com
 ihaxyour.info
 inapplicable.org
@@ -606,7 +600,6 @@ jyliananderik.com
 kah.pw
 kitten-mittons.com
 kommunity.biz
-kosmetik-obatkuat.com
 kwift.net
 lakelivingstonrealestate.com
 ledoktre.com
@@ -718,7 +711,6 @@ toddsbighug.com
 tonymanso.com
 topranklist.de
 toprumours.com
-totesmail.com
 tp-qa-mail.com
 trialmail.de
 tucumcaritonite.com
