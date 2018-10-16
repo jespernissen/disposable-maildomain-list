@@ -2730,7 +2730,6 @@ cavi.mx
 drdrb.com
 axsup.net
 mailorg.org
-thraml.com
 fivemail.de
 mintemail.com
 fangoh.com
@@ -2745,10 +2744,8 @@ bitwhites.top
 nutpa.net
 kennedy808.com
 ye.vc
-ethersportz.info
 r4nd0m.de
 0x01.gq
-60minutemail.com
 shieldemail.com
 nonspam.eu
 mji.ro
