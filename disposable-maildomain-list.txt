@@ -358,7 +358,6 @@ opayq.com
 pagamenti.tk
 parlimentpetitioner.tk
 pcusers.otherinbox.com
-pepbot.com
 pfui.ru
 phpbb.uu.gl
 pokemail.net
@@ -429,7 +428,6 @@ vaasfc4.tk
 vfemail.net
 vickaentb.tk
 vomoto.com
-web-contact.info
 wee.my
 weg-werf-email.de
 wegwerf-emails.de
