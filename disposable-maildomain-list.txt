@@ -107,7 +107,6 @@ nervtmich.net
 netmails.com
 netmails.net
 neverbox.com
-no-spam.ws
 nomail.xl.cx
 nospam.ze.tc
 notmailinator.com
@@ -249,7 +248,6 @@ boximail.com
 btcmail.pw
 byom.de
 c2.hu
-cellurl.com
 chacuo.net
 cheatmail.de
 chechnya.conf.work
@@ -293,7 +291,6 @@ flashbox.5july.org
 fleckens.hu
 forgetmail.com
 freundin.ru
-friendlymail.co.uk
 fudgerub.com
 gelitik.in
 get.pp.ua
