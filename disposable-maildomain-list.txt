@@ -1342,10 +1342,6 @@ crapmail.dk
 crap-mail.dk
 4ko.com
 lajoska.pe.hu
-asiarap.usa.cc
-ay33rs.flu.cc
-retkesbusz.nut.cc
-hunrap.usa.cc
 www.sbs.co.kr.uko.kr
 b9x45v1m.com.com
 hotmail.com.hotmail.com.vay.kr
@@ -1418,7 +1414,6 @@ keepmymail.com
 kulturbetrieb.info
 mail2rss.org
 nomorespamemails.com
-nospam4.us
 nus.edu.sg
 nwldx.com
 pookmail.com
@@ -1594,7 +1589,6 @@ dlemail.ru
 dndent.com
 domforfb9.tk
 dr69.site
-emailfake.nut.cc
 emailfreedom.ml
 emailsecurer.com
 emailtech.info
