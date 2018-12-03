@@ -1322,7 +1322,6 @@ just4spam.com
 mailf5.com
 muell.email
 sapya.com
-send-email.org
 smoug.net
 spamwc.de
 candymail.de
@@ -1383,7 +1382,6 @@ posta.store
 trashmails.com
 zubacteriax.com
 wmail.club
-amail.club
 banit.club
 banit.me
 cars2.club
@@ -1431,7 +1429,6 @@ throwawaymail.pp.ua
 throwawaymail.uu.gl
 ggg.pp.ua
 figjs.com
-6.fackme.gq
 tmpmail.net
 choco.la
 cream.pink
@@ -1497,7 +1494,6 @@ tqoai.com
 hotmial.com
 inboxed.pw
 instantemailaddress.com
-junk.to
 kloap.com
 lackmail.net
 lags.us
@@ -1511,7 +1507,6 @@ mailjunk.cf
 mailpick.biz
 mailtrash.net
 mailwithyou.com
-myemailboxy.com
 mymail-in.net
 olypmall.ru
 privatdemail.net
@@ -1536,7 +1531,6 @@ throam.com
 throwawaymail.com
 trash-mail.cf
 trickmail.net
-uyhip.com
 valemail.net
 verticalscope.com
 vkcode.ru
@@ -1558,7 +1552,6 @@ hu4ht.com
 10minutemail.be
 10minutemail.nl
 10minutemailbox.com
-10minutesmail.fr
 14n.co.uk
 2anom.com
 55hosting.net
