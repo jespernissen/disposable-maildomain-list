@@ -1390,7 +1390,6 @@ mailna.biz
 mailna.co
 mailna.in
 mailna.me
-mohmal.tech
 mohmal.in
 mohmal.com
 via.tokyo.jp
@@ -1461,7 +1460,6 @@ deadfake.cf
 deagot.com
 discard.cf
 disposable.cf
-disposableinbox.com
 divismail.ru
 doiea.com
 drdrb.net
@@ -1490,7 +1488,6 @@ miauj.com
 hopemail.biz
 tqoai.com
 hotmial.com
-inboxed.pw
 instantemailaddress.com
 kloap.com
 lackmail.net
@@ -1532,7 +1529,6 @@ trickmail.net
 valemail.net
 verticalscope.com
 vkcode.ru
-vipmail.pw
 vsimcard.com
 walkmail.net
 writeme.us
