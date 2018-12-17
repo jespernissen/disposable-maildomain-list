@@ -2246,7 +2246,6 @@ rxtx.us
 ryanb.com
 sach.ir
 sdf.org
-sendto.cf
 shapoo.ch
 shitposting.agency
 showme.social
