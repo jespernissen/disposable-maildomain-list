@@ -1433,7 +1433,6 @@ ruru.be
 tm2mail.com
 fakeinbox.info
 govnomail.xyz
-dma.in-ulm.de
 10minute-email.com
 10minutemail.cf
 10minutemail.ga
@@ -1504,7 +1503,6 @@ privy-mail.com
 pwrby.com
 qasti.com
 qisdo.com
-qisoa.com
 qoika.com
 recyclemail.dk
 shut.name
@@ -1599,7 +1597,6 @@ justemail.ml
 kadokawa.tk
 katztube.com
 kiani.com
-kiois.com
 lacedmail.com
 lak.pp.ua
 maileme101.com
