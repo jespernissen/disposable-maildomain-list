@@ -2588,7 +2588,6 @@ bugmenever.com
 fake-mail.ml
 freemails.ga
 guerillamailblock.com
-mytempmail.com
 services391.com
 sry.li
 wetrainbayarea.com
@@ -2614,7 +2613,6 @@ hoer.pw
 hostcalls.com
 hukkmu.tk
 humn.ws.gy
-infest.org
 liveradio.tk
 mailscheap.us
 porco.ga
