@@ -2138,14 +2138,12 @@ concealed.company
 conf.work
 confidential.life
 crymail2.com
-cryp.email
 datum2.com
 decoymail.mx
 disbox.net
 discard.ga
 discard.gq
 discordmail.com
-endrix.org
 ether123.net
 ethersports.org
 etlgr.com
@@ -2168,7 +2166,6 @@ i-taiwan.tv
 k4ds.org
 kein.hk
 klipp.su
-kumail8.info
 l5.ca
 labo.ch
 ladymacbeth.tk
@@ -2237,7 +2234,6 @@ yadavnaresh.com.np
 yasser.ru
 yopmail.info
 you.e4ward.com
-youzend.net
 zavio.nl
 ze.cx
 ethereal.email
