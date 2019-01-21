@@ -88,7 +88,6 @@ mailnull.com
 mailsiphon.com
 mailzilla.com
 mega.zik.dj
-meinspamschutz.de
 meltmail.com
 messagebeamer.de
 moncourrier.fr.nf
@@ -215,7 +214,6 @@ emeil.in
 mailfa.tk
 inbax.tk
 emeil.ir
-0815.su
 10mail.org
 10minutemail.co.za
 10minutemail.net
@@ -247,7 +245,6 @@ btcmail.pw
 byom.de
 c2.hu
 cheatmail.de
-chechnya.conf.work
 chong-mail.net
 ckaazaza.tk
 clixser.com
