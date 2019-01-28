@@ -212,7 +212,6 @@ koszmail.pl
 whatpaas.com
 emeil.in
 mailfa.tk
-inbax.tk
 emeil.ir
 10mail.org
 10minutemail.co.za
@@ -313,7 +312,6 @@ mail-filter.com
 mail114.net
 mailforspam.com
 mailfs.com
-mailguard.me
 mailimate.com
 mailinatar.com
 mailismagic.com
@@ -346,7 +344,6 @@ opayq.com
 pagamenti.tk
 parlimentpetitioner.tk
 pcusers.otherinbox.com
-pfui.ru
 phpbb.uu.gl
 pokemail.net
 privymail.de
