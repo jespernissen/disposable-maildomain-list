@@ -1382,13 +1382,11 @@ keepmymail.com
 kulturbetrieb.info
 mail2rss.org
 nomorespamemails.com
-nus.edu.sg
 nwldx.com
 pookmail.com
 rmqkr.net
 rppkn.com
 skeefmail.com
-slopsbox.com
 spambox.us
 spamfree24.de
 spamobox.com
@@ -1476,7 +1474,6 @@ maildrop.cf
 maileimer.de
 mailfree.ml
 mailjunk.cf
-mailpick.biz
 mailtrash.net
 mailwithyou.com
 mymail-in.net
@@ -1582,7 +1579,6 @@ kiani.com
 lacedmail.com
 lak.pp.ua
 mailtraps.com
-mcache.net
 mdhc.tk
 mfsa.info
 miaferrari.com
