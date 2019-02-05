@@ -1397,7 +1397,6 @@ turoid.com
 gmial.com
 temp-mail.pp.ua
 emailfake.com
-throwawaymail.pp.ua
 throwawaymail.uu.gl
 ggg.pp.ua
 figjs.com
@@ -1454,7 +1453,6 @@ free-email.cf
 getmails.eu
 gomail.in
 gotmail.com
-sawoe.com
 ckoie.com
 loapq.com
 soioa.com
@@ -1504,7 +1502,6 @@ vkcode.ru
 vsimcard.com
 walkmail.net
 writeme.us
-youmailr.com
 yourdomain.com
 wierie.tk
 zomg.info
@@ -1529,7 +1526,6 @@ astonut.tk
 badpotato.tk
 binnary.com
 btizet.pl
-cbair.com
 cheaphub.net
 cocovpn.com
 crazespaces.pw
