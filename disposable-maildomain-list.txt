@@ -1451,7 +1451,6 @@ fake-mail.cf
 flurred.com
 free-email.cf
 getmails.eu
-gomail.in
 gotmail.com
 ckoie.com
 loapq.com
