@@ -210,7 +210,6 @@ spam4.me
 koszmail.pl
 whatpaas.com
 emeil.in
-mailfa.tk
 emeil.ir
 10mail.org
 10minutemail.co.za
@@ -311,7 +310,6 @@ mail-filter.com
 mail114.net
 mailforspam.com
 mailfs.com
-mailimate.com
 mailinatar.com
 mailismagic.com
 mailmate.com
@@ -329,13 +327,11 @@ mobileninja.co.uk
 monumentmail.com
 mor19.uu.gl
 mt2015.com
-muehlacker.tk
 mvrht.com
 my10minutemail.com
 mypacks.net
 mytemp.email
 mytempemail.com
-napalm51.tk
 notsharingmy.info
 nowhere.org
 ntlhelp.net
