@@ -1872,7 +1872,6 @@ averdov.com
 aws910.com
 ax80mail.com
 axeprim.eu
-backflip.cf
 begoz.com
 beo.kr
 biz.st
@@ -1890,8 +1889,6 @@ crymail2.com
 datum2.com
 decoymail.mx
 disbox.net
-discard.ga
-discard.gq
 discordmail.com
 ether123.net
 ethersports.org
@@ -1904,13 +1901,10 @@ geronra.com
 happygoluckyclub.com
 hi2.in
 hitbts.com
-hotakama.tk
 hotmails.com
-i-3gk.cf
 ibsats.com
 idigo.org
 inboxhub.net
-interserver.ga
 i-taiwan.tv
 k4ds.org
 kein.hk
@@ -1925,9 +1919,7 @@ mailtemp.net
 malibucoding.com
 messageden.net
 messagesafe.co
-metuwar.tk
 mihanmail.ir
-mrblacklist.gq
 msgden.com
 msgsafe.ninja
 muimail.com
@@ -1966,7 +1958,6 @@ thetrash.email
 tm.slsrs.ru
 topmall.info
 tracciabi.li
-trebusinde.cf
 tweakly.net
 uscaves.com
 vpstraffic.com
