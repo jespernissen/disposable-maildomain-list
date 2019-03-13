@@ -1330,7 +1330,6 @@ tempr.email
 wikidocuslava.ru
 i6.cloudns.cc
 i6.cloudns.cx
-posta.store
 trashmails.com
 wmail.club
 banit.club
@@ -1396,7 +1395,6 @@ akerd.com
 anappthat.com
 bladesmail.net
 blogmyway.org
-coieo.com
 deagot.com
 divismail.ru
 doiea.com
@@ -1430,7 +1428,6 @@ olypmall.ru
 privatdemail.net
 privy-mail.com
 pwrby.com
-qasti.com
 qisdo.com
 qoika.com
 recyclemail.dk
@@ -1461,14 +1458,10 @@ vps30.com
 hvzoi.com
 hu4ht.com
 10minut.xyz
-10minutemail.be
-10minutemail.nl
 10minutemailbox.com
 14n.co.uk
 2anom.com
 55hosting.net
-analogwe.us
-anyalias.com
 apkmd.com
 astonut.tk
 badpotato.tk
