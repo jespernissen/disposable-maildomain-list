@@ -78,7 +78,6 @@ mailinator.com
 mailinator.net
 mailinator2.com
 mailincubator.com
-mailme.ir
 mailme.lv
 mailmetrash.com
 mailmoat.com
@@ -208,7 +207,6 @@ inboxalias.com
 spam4.me
 koszmail.pl
 whatpaas.com
-emeil.in
 emeil.ir
 10mail.org
 10minutemail.co.za
