@@ -13,7 +13,6 @@ antispam.de
 baxomale.ht.cx
 beefmilk.com
 binkmail.com
-bio-muesli.net
 bobmail.info
 bofthew.com
 bsnow.net
@@ -206,7 +205,6 @@ trbvm.com
 inboxalias.com
 spam4.me
 koszmail.pl
-whatpaas.com
 emeil.ir
 10mail.org
 10minutemail.co.za
@@ -391,7 +389,6 @@ thrott.com
 tmail.ws
 toomail.biz
 trash-me.com
-trayna.com
 trbvo.com
 ubismail.net
 uroid.com
