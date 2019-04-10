@@ -1295,7 +1295,6 @@ exmail.io
 getnada.com
 caseedu.tk
 dfg6.kozow.com
-nada.ltd
 vssms.com
 mnode.me
 te.caseedu.tk
@@ -1316,10 +1315,7 @@ i6.cloudns.cc
 i6.cloudns.cx
 trashmails.com
 wmail.club
-banit.club
-banit.me
 cars2.club
-nada.email
 117.yyolf.net
 qwfox.com
 mailna.biz
