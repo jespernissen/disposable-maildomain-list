@@ -2064,7 +2064,6 @@ coreclip.com
 ip4.pp.ua
 ieh-mail.de
 dotmsg.com
-myzx.com
 tech69.com
 emailigo.de
 email-temp.com
@@ -2190,6 +2189,5 @@ zoemail.org
 mailhex.com
 e.wupics.com
 o.opendns.ro
-ezehe.com
 mailed.ro
 maildx.com
