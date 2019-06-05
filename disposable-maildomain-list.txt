@@ -52,7 +52,6 @@ guerrillamail.org
 guerrillamailblock.com
 hatespam.org
 hidemail.de
-hulapla.de
 imails.info
 inboxclean.com
 inboxclean.org
@@ -351,7 +350,6 @@ sinnlos-mail.de
 siteposter.net
 slave-auctions.net
 slippery.email
-slipry.net
 smashmail.de
 snkmail.com
 spamdecoy.net
