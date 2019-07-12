@@ -1200,7 +1200,6 @@ szerz.com
 15qm.com
 cookiecooker.de
 googdad.tk
-email-fake.com
 emailondeck.com
 empiremail.de
 ese.kr
@@ -1297,10 +1296,6 @@ trbvn.com
 leeching.net
 turoid.com
 gmial.com
-temp-mail.pp.ua
-emailfake.com
-throwawaymail.uu.gl
-ggg.pp.ua
 figjs.com
 tmpmail.net
 choco.la
@@ -1402,7 +1397,6 @@ diapaulpainting.com
 disbox.org
 dndent.com
 emailsecurer.com
-emailtech.info
 emlhub.com
 emlpro.com
 ethereum1.top
@@ -1417,7 +1411,6 @@ geew.ru
 gen.uu.gl
 givmail.com
 gmatch.org
-gmx.fr.nf
 golemico.com
 hackthatbit.ch
 hidebox.org
@@ -1429,7 +1422,6 @@ kadokawa.tk
 katztube.com
 kiani.com
 lacedmail.com
-lak.pp.ua
 mailtraps.com
 mdhc.tk
 miaferrari.com
