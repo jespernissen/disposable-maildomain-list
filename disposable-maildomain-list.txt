@@ -51,7 +51,6 @@ guerrillamail.org
 guerrillamailblock.com
 hatespam.org
 hidemail.de
-imails.info
 inboxclean.com
 inboxclean.org
 iwi.net
@@ -133,7 +132,6 @@ smellfear.com
 sneakemail.com
 sofort-mail.de
 sogetthis.com
-soodonims.com
 spamavert.com
 spambog.com
 spambog.de
@@ -175,7 +173,6 @@ trashmail.org
 trashymail.com
 trillianpro.com
 twinmail.de
-tyldd.com
 uggsrock.com
 venompen.com
 veryrealemail.com
@@ -239,7 +236,6 @@ crapmail.org
 crazymailing.com
 cuvox.de
 dasdasdascyka.tk
-dcemail.com
 dingbone.com
 discard.email
 dispomail.eu
