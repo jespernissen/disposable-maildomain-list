@@ -966,7 +966,6 @@ mail.bentrask.com
 mail.fsmash.org
 mail.me
 mail.misterpinball.de
-mail.sequentialx.com
 mail.svenz.eu
 mail4u.info
 mailinblack.com
