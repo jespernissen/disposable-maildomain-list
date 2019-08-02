@@ -1300,7 +1300,6 @@ ruru.be
 tm2mail.com
 fakeinbox.info
 govnomail.xyz
-123-m.com
 12minutemail.com
 7mail.ml
 akerd.com
@@ -1349,7 +1348,6 @@ stop-my-spam.com
 tagyourself.com
 techgroup.me
 tempymail.com
-thismail.net
 throam.com
 throwawaymail.com
 trickmail.net
