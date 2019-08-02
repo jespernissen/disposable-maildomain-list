@@ -495,7 +495,6 @@ express.net.ua
 ezstest.com
 f4k.es
 faithkills.org
-fartwallet.com
 faze.biz
 fetchnet.co.uk
 fingermouse.org
