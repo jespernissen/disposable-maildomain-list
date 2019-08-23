@@ -494,7 +494,6 @@ ignoremail.com
 ihaxyour.info
 infocom.zp.ua
 ip6.li
-ipswell.com
 jafps.com
 jamit.com.au
 jdmadventures.com
@@ -744,7 +743,6 @@ mail-temporaire.com
 mail666.ru
 mail72.com
 maildu.de
-mailed.in
 mailhazard.com
 mailhazard.us
 mailhz.me
