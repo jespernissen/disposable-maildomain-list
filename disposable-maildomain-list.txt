@@ -80,7 +80,6 @@ mailnull.com
 mailsiphon.com
 mailzilla.com
 mega.zik.dj
-meltmail.com
 messagebeamer.de
 moncourrier.fr.nf
 monemail.fr.nf
@@ -297,7 +296,6 @@ mytemp.email
 mytempemail.com
 notsharingmy.info
 nowhere.org
-ntlhelp.net
 opayq.com
 pcusers.otherinbox.com
 phpbb.uu.gl
