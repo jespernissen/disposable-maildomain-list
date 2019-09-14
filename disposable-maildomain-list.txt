@@ -1680,7 +1680,6 @@ nodie.cc
 notif.me
 one.pl
 orangotango.tk
-partskyline.com
 payperex2.com
 pcmylife.com
 peapz.com
