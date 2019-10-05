@@ -1393,7 +1393,6 @@ qbi.kr
 rao.kr
 rko.kr
 row.kr
-satka.net
 sfmail.top
 shuffle.email
 skrx.tk
@@ -1432,7 +1431,6 @@ postshift.ru
 servebeer.com
 startfu.com
 tafoi.gr
-tranceversal.com
 tualias.com
 vip.188.com
 vip.tom.com
@@ -1449,7 +1447,6 @@ asorent.com
 top1post.ru
 advantimal.com
 anonymous-email.net
-anonymousfeedback.net
 beerolympics.se
 imperfectron.com
 linuxpl.eu
@@ -1461,7 +1458,6 @@ tiv.cc
 tom.com
 vctel.com
 wzukltd.com
-zfymail.com
 burnmail.ca
 earth.doesntexist.org
 eboise.com
