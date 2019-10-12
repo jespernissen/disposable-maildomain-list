@@ -968,8 +968,6 @@ protonmail.com
 irr.kr
 sute.jp
 the3rivers.net
-local-man.ru
-local-woman.ru
 wifi-it.at
 ikzubirimanteo.com
 iesmarenostrum.com
@@ -1080,7 +1078,6 @@ chewiemail.com
 clovermail.net
 tushmail.com
 powdermail.com
-itnewsflash.com
 jinkxter.com
 nospamthanks.com
 joliekemulder.nl
@@ -1957,3 +1954,4 @@ gspousea.com
 hellomail.fun
 yevme.com
 enayu.com
+gmil.com
