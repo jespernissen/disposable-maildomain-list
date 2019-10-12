@@ -286,7 +286,6 @@ migmail.pl
 moakt.com
 mobileninja.co.uk
 monumentmail.com
-mor19.uu.gl
 mt2015.com
 my10minutemail.com
 mypacks.net
@@ -296,7 +295,6 @@ notsharingmy.info
 nowhere.org
 opayq.com
 pcusers.otherinbox.com
-phpbb.uu.gl
 pokemail.net
 privymail.de
 quickmail.nl
