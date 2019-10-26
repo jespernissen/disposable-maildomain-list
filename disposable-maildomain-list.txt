@@ -3,7 +3,6 @@
 0wnd.org
 10minutemail.com
 20minutemail.com
-2prong.com
 4warding.net
 9ox.net
 a-bc.net
@@ -135,7 +134,6 @@ spambog.de
 spamcannon.com
 spamcannon.net
 spamcon.org
-spamcorptastic.com
 spamcowboy.com
 spamcowboy.net
 spamcowboy.org
