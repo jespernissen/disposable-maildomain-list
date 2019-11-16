@@ -461,7 +461,6 @@ fingermouse.org
 flowu.com
 flyinggeek.net
 forecastertests.com
-forspam.net
 fuckedupload.com
 fun2.biz
 fyii.de
@@ -507,9 +506,6 @@ metroset.net
 mhwolf.net
 midcoastcustoms.com
 midcoastsolutions.com
-midlertidig.com
-midlertidig.net
-midlertidig.org
 miodonski.ch
 moakt.ws
 mockmyid.com
@@ -536,7 +532,6 @@ norseforce.com
 ny7.me
 o7i.net
 obxpestcontrol.com
-odnorazovoe.ru
 oerpub.org
 offshore-proxies.net
 omnievents.org
@@ -553,7 +548,6 @@ qs2k.com
 querydirect.com
 raetp9.com
 rainwaterstudios.org
-raketenmann.de
 redpeanut.com
 reliable-mail.com
 remote.li
@@ -594,7 +588,6 @@ topranklist.de
 toprumours.com
 trialmail.de
 tucumcaritonite.com
-txtadvertise.com
 uhhu.ru
 us.af
 uwork4.us
