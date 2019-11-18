@@ -1981,10 +1981,8 @@ nospam4.us
 nospamthanks.info
 nus.edu.sg
 selfdestructingmail.com
-slopsbox.com
 sofimail.com
 spambog.ru
-spamcero.com
 spamfree24.de
 spamfree24.info
 spamfree24.org
@@ -2021,7 +2019,6 @@ dbz5mchild.com
 disign-concept.eu
 ecolo-online.fr
 fast-mail.fr
-giyam.com
 instantmail.fr
 klick-tipp.us
 level3.flu.cc
@@ -2059,7 +2056,6 @@ ethersportz.info
 20mail.eu
 20mm.eu
 2ether.net
-2wc.info
 30mail.ir
 30wave.com
 333.igg.biz
