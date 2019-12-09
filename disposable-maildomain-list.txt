@@ -1932,13 +1932,11 @@ dodgit.org
 dumpmail.de
 dumpyemail.com
 email60.com
-emailto.de
 fastkawasaki.com
 fastsuzuki.com
 fastyamaha.com
 fizmail.com
 girlsundertheinfluence.com
-h8s.org
 haltospam.com
 hulapla.de
 ieatspam.info
@@ -2037,7 +2035,6 @@ ethersportz.info
 30mail.ir
 30wave.com
 333.igg.biz
-36ru.com
 4057.com
 4tb.host
 672643.net
@@ -2068,7 +2065,6 @@ adaptwe.us
 adeptwe.us
 admiralwe.us
 adoniswe.us
-adsd.org
 advantagewe.us
 adventurewe.us
 adventwe.us
