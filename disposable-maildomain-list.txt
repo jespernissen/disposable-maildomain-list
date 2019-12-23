@@ -1939,7 +1939,6 @@ imails.info
 irish2me.com
 kaspop.com
 m4ilweb.info
-mailbidon.com
 mailin8r.com
 mailshell.com
 mierdamail.com
@@ -2011,7 +2010,6 @@ txt.flu.cc
 used-product.fr
 wazabi.club
 web-ideal.fr
-zaktouni.fr
 aditus.info
 ethersportz.info
 001.igg.biz
