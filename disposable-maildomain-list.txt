@@ -375,7 +375,6 @@ emltmp.com
 4w.io
 5gramos.com
 5july.org
-80665.com
 adwaterandstir.com
 aegia.net
 aligamel.com
@@ -591,7 +590,6 @@ vpn.st
 wasteland.rfc822.org
 wegwerfemail.com
 wg0.com
-whatifanalytics.com
 wiki.8191.at
 wimsg.com
 wyvernia.net
@@ -617,7 +615,6 @@ zhcne.com
 42o.org
 5oz.ru
 5x25.com
-abakiss.com
 adiq.eu
 agtx.net
 alldirectbuy.com
