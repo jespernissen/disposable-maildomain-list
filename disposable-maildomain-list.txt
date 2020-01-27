@@ -383,7 +383,6 @@ al-qaeda.us
 ampsylike.com
 andthen.us
 anonmails.de
-appinventor.nl
 aron.us
 asspoo.com
 autorobotica.com
@@ -589,7 +588,6 @@ vpn.st
 wasteland.rfc822.org
 wegwerfemail.com
 wg0.com
-wiki.8191.at
 wimsg.com
 wyvernia.net
 x24.com
