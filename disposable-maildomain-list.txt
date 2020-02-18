@@ -1920,14 +1920,12 @@ spamfree24.info
 teewars.org
 trash-amil.com
 yuurok.com
-emeil.in
 bestvpn.top
 mailgov.info
 vektik.com
 amail.club
 cmail.club
 banit.me
-nada.ltd
 duck2.club
 cars2.club
 tempmailaddress.com
@@ -1956,7 +1954,6 @@ m5s.flu.cc
 m5s.igg.biz
 mail-easy.fr
 ourawesome.life
-pfui.ru
 photo-impact.eu
 premium-mail.fr
 s-s.flu.cc
