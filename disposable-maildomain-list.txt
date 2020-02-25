@@ -1902,7 +1902,6 @@ imails.info
 irish2me.com
 m4ilweb.info
 mailin8r.com
-mailshell.com
 mierdamail.com
 moburl.com
 netzidiot.de
@@ -1932,9 +1931,7 @@ getairmail.com
 wupics.com
 malove.site
 spamtrap.ro
-gotimes.xyz
 emailo.pro
-xxlocanto.us
 0815.su
 6-6-6.igg.biz
 art-en-ligne.pro
@@ -1971,7 +1968,6 @@ ethersportz.info
 10minutemail.co.uk
 10minutemail.pro
 10minutesmail.com
-10minutesmail.fr
 12storage.com
 1mail.ml
 1webmail.info
