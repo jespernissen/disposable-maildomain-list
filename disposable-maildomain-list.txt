@@ -2281,11 +2281,9 @@ tyhe.ro
 vemomail.win
 vikingsonly.com
 vipmail.name
-vipmail.pw
 vnedu.me
 voidbay.com
 vtxmail.us
-vuiy.pw
 walkmail.ru
 watchever.biz
 webemail.me
@@ -2302,7 +2300,6 @@ xcode.ro
 xemne.com
 xost.us
 xxi2.com
-xxolocanto.us
 yahmail.top
 yamail.win
 yannmail.win
