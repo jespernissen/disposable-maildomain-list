@@ -578,7 +578,6 @@ vinernet.com
 viralplays.com
 vmani.com
 vmpanda.com
-vpn.st
 wasteland.rfc822.org
 wegwerfemail.com
 wg0.com
@@ -711,7 +710,6 @@ mybitti.de
 naver.com
 negated.com
 netricity.nl
-nom.za
 okzk.com
 omail.pro
 onet.pl
