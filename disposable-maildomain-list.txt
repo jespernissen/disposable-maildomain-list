@@ -1246,7 +1246,6 @@ katztube.com
 kiani.com
 lacedmail.com
 mailtraps.com
-miaferrari.com
 moakt.co
 morsin.com
 mr24.co
@@ -1377,7 +1376,6 @@ rfc822.org
 stuckmail.com
 tiv.cc
 tom.com
-vctel.com
 wzukltd.com
 burnmail.ca
 earth.doesntexist.org
