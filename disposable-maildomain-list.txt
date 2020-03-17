@@ -1182,7 +1182,6 @@ mailtrash.net
 mailwithyou.com
 mymail-in.net
 privatdemail.net
-privy-mail.com
 qisdo.com
 qoika.com
 recyclemail.dk
@@ -1356,7 +1355,6 @@ startfu.com
 tualias.com
 vip.188.com
 vip.tom.com
-yspend.com
 bossmail.de
 libox.fr
 mallinator.com
