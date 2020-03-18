@@ -1891,7 +1891,6 @@ mierdamail.com
 moburl.com
 netzidiot.de
 nomail2me.com
-nospam4.us
 nospamthanks.info
 nus.edu.sg
 selfdestructingmail.com
@@ -1913,7 +1912,6 @@ cars2.club
 tempmailaddress.com
 qiq.us
 getairmail.com
-wupics.com
 malove.site
 spamtrap.ro
 emailo.pro
