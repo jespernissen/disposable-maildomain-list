@@ -1833,7 +1833,6 @@ yert.ye.vc
 mailhex.com
 o.opendns.ro
 mailed.ro
-maildx.com
 hotmil.com
 mail-space.net
 o.spamtrap.ro
