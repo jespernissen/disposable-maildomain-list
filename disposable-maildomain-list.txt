@@ -437,7 +437,6 @@ ezstest.com
 f4k.es
 faithkills.org
 faze.biz
-fetchnet.co.uk
 fingermouse.org
 flowu.com
 flyinggeek.net
@@ -509,7 +508,6 @@ nnh.com
 nomail.pw
 nomailthankyou.com
 norseforce.com
-ny7.me
 o7i.net
 obxpestcontrol.com
 oerpub.org
