@@ -38,7 +38,6 @@ emailxfer.com
 filzmail.com
 fr33mail.info
 frapmail.com
-get1mail.com
 greensloth.com
 gsrv.co.uk
 guerrillamail.biz
@@ -129,9 +128,6 @@ spambog.de
 spamcannon.com
 spamcannon.net
 spamcon.org
-spamcowboy.com
-spamcowboy.net
-spamcowboy.org
 spamex.com
 spamgourmet.com
 spamgourmet.net
@@ -189,7 +185,6 @@ emeil.ir
 10minutemail.net
 21cn.com
 6ip.us
-99experts.com
 a45.in
 abyssmail.com
 ahk.jp
