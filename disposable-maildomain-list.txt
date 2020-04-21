@@ -178,7 +178,6 @@ trbvm.com
 33mail.com
 inboxalias.com
 spam4.me
-koszmail.pl
 emeil.ir
 10mail.org
 10minutemail.co.za
@@ -257,7 +256,6 @@ mailmate.com
 mailme24.com
 mailproxsy.com
 mailsac.com
-mailtemp.info
 mailtothis.com
 mailzi.ru
 makemetheking.com
