@@ -1517,7 +1517,6 @@ maildrop.cc
 hoanggiaanh.com
 midcoastcustoms.net
 kekita.com
-bigstring.com
 findu.pl
 lgxscreen.com
 mezimages.net
