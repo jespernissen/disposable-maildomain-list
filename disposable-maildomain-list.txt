@@ -1656,16 +1656,6 @@ mail-space.net
 o.spamtrap.ro
 www.barryogorman.com
 i.xcode.ro
-mini-mail.net
-newtmail.com
-best-mail.net
-freetmail.net
-freetmail.in
-all-mail.net
-tmailcloud.net
-mailline.net
-mytmail.in
-nextmail.in
 yevme.com
 enayu.com
 gmil.com
