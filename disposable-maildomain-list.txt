@@ -1579,7 +1579,6 @@ clipmail.eu
 inboxdesign.me
 markmurfin.com
 emailthe.net
-bccto.me
 tmailinator.com
 vipepe.com
 disposableemailaddresses.com
@@ -1605,7 +1604,6 @@ cavi.mx
 axsup.net
 mailorg.org
 fivemail.de
-mintemail.com
 maswae.world
 tempemail.biz
 discardmail.de
