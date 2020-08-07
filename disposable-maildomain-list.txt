@@ -1138,7 +1138,6 @@ shut.name
 shut.ws
 spambooger.com
 stop-my-spam.com
-tagyourself.com
 techgroup.me
 tempymail.com
 throam.com
