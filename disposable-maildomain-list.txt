@@ -1637,19 +1637,13 @@ dodgit.org
 dumpmail.de
 dumpyemail.com
 email60.com
-fastkawasaki.com
-fastsuzuki.com
-fastyamaha.com
 fizmail.com
 haltospam.com
 hulapla.de
 ieatspam.info
-iheartspam.org
 imails.info
 irish2me.com
-m4ilweb.info
 mailin8r.com
-mierdamail.com
 moburl.com
 netzidiot.de
 nomail2me.com
@@ -1674,7 +1668,6 @@ tempmailaddress.com
 getairmail.com
 malove.site
 spamtrap.ro
-emailo.pro
 0815.su
 art-en-ligne.pro
 cyber-innovation.club
