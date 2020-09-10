@@ -35,7 +35,6 @@ emailsensei.com
 emailwarden.com
 filzmail.com
 fr33mail.info
-frapmail.com
 greensloth.com
 gsrv.co.uk
 guerrillamail.biz
@@ -63,7 +62,6 @@ mail.by
 mailinater.com
 mailinator.com
 mailinator.net
-mailinator2.com
 mailincubator.com
 mailmetrash.com
 mailmoat.com
@@ -77,7 +75,6 @@ moncourrier.fr.nf
 monemail.fr.nf
 monmail.fr.nf
 mt2009.com
-mypartyclip.de
 mytrashmail.com
 neomailbox.com
 nepwk.com
@@ -89,14 +86,12 @@ nospam.ze.tc
 notmailinator.com
 nurfuerspam.de
 objectmail.com
-obobbo.com
 onewaymail.com
 online.ms
 oopi.org
 ordinaryamerican.net
 otherinbox.com
 ovpn.to
-politikerclub.de
 privacy.net
 proxymail.eu
 prtnx.com
@@ -108,7 +103,6 @@ rtrtr.com
 safe-mail.net
 safersignup.de
 safetymail.info
-sandelf.de
 SendSpamHere.com
 sharklasers.com
 shiftmail.com
@@ -304,7 +298,6 @@ svk.jp
 sweetxxx.de
 t.psh.me
 tafmail.com
-teleosaurs.xyz
 teleworm.us
 temp-mail.de
 temp-mail.org
