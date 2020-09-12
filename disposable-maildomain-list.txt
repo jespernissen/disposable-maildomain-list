@@ -1847,7 +1847,6 @@ romails.net
 10minutemail.be
 10minutemail.nl
 10minutmail.pl
-10x9.com
 12houremail.com
 147.cl
 1blackmoon.com
@@ -1872,7 +1871,6 @@ agedmail.com
 ahem.email
 ajaxapp.net
 alpha-web.net
-ama-trade.de
 amail1.com
 amilegit.com
 amiriindustries.com
@@ -1931,7 +1929,6 @@ directmail24.net
 dodgemail.de
 dr69.site
 dump-email.info
-e-mail.org
 einmalmail.de
 email-lab.com
 emailate.com
