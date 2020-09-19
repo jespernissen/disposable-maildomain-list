@@ -1853,10 +1853,8 @@ romails.net
 20mail.in
 20mail.it
 20minutemail.it
-247web.net
 24hourmail.net
 30minutemail.com
-4nextmail.com
 60minutemail.com
 7days-printing.com
 80665.com
@@ -1908,7 +1906,6 @@ cndps.com
 co.cc
 cobarekyo1.ml
 coieo.com
-coin-host.net
 coldemail.info
 conf.work
 cszbl.com
