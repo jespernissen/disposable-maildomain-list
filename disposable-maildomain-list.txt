@@ -35,7 +35,6 @@ emailsensei.com
 emailwarden.com
 filzmail.com
 fr33mail.info
-greensloth.com
 gsrv.co.uk
 guerrillamail.biz
 guerrillamail.com
@@ -282,7 +281,6 @@ snkmail.com
 spamfree.eu
 spoofmail.de
 spybox.de
-startkeys.com
 stuffmail.de
 sudolife.me
 sudolife.net
