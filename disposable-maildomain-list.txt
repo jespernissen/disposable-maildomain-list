@@ -1654,7 +1654,6 @@ wazabi.club
 web-ideal.fr
 ethersportz.info
 10minutemail.co.uk
-10minutemail.pro
 10minutesmail.com
 12storage.com
 1webmail.info
@@ -1727,7 +1726,6 @@ inboxstore.me
 iozak.com
 irabops.com
 isosq.com
-ixx.io
 j-p.us
 jamesbond.flu.cc
 kennedy808.com
