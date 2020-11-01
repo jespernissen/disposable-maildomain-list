@@ -1666,7 +1666,6 @@ abcmail.email
 abusemail.de
 affiliate-nebenjob.info
 akapost.com
-amelabs.com
 anyalias.com
 aoeuhtns.com
 aphlog.com
@@ -1688,7 +1687,6 @@ deyom.com
 dhm.ro
 dialogus.com
 disposableinbox.com
-diwaq.com
 dlemail.ru
 dmarc.ro
 dnses.ro
@@ -1744,7 +1742,6 @@ mailfree.ml
 mailgutter.com
 mailinator.gq
 mailinator.org
-mailsucker.net
 mciek.com
 mohmal.tech
 monachat.tk
@@ -1757,7 +1754,6 @@ oneoffmail.com
 onlineidea.info
 opendns.ro
 pisls.com
-ploae.com
 pooae.com
 poutineyourface.com
 pro-tag.org
