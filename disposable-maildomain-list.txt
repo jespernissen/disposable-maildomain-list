@@ -607,7 +607,6 @@ garbagemail.org
 geteit.com
 greggamel.com
 gynzy.eu
-headstrong.de
 heathenhammer.com
 hecat.es
 hmail.us
@@ -653,7 +652,6 @@ ourpreviewdomain.com
 pii.at
 plhk.ru
 plw.me
-postonline.me
 powered.name
 pp.ua
 privy-mail.de
