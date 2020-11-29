@@ -1783,7 +1783,6 @@ romails.net
 0v.ro
 10mail.com
 10minutemail.be
-10minutemail.nl
 10minutmail.pl
 12houremail.com
 147.cl
