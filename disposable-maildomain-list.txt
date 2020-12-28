@@ -1692,7 +1692,6 @@ isosq.com
 j-p.us
 jamesbond.flu.cc
 kennedy808.com
-kiois.com
 kyal.pl
 lackmail.ru
 lazyinbox.us
@@ -1707,7 +1706,6 @@ mailfree.ml
 mailgutter.com
 mailinator.gq
 mailinator.org
-mciek.com
 mohmal.tech
 monachat.tk
 myzx.com
@@ -1717,13 +1715,11 @@ nonze.ro
 oneoffmail.com
 onlineidea.info
 opendns.ro
-pisls.com
 pooae.com
 poutineyourface.com
 pro-tag.org
 propscore.com
 qasti.com
-qisoa.com
 rbb.org
 reality-concept.club
 recipeforfailure.com
