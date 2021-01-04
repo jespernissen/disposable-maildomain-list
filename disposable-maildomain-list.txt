@@ -1839,14 +1839,12 @@ emailz.ml
 eoffice.top
 ericjohnson.ml
 ezehe.com
-fackme.gq
 faecesmail.me
 fakeinbox.cf
 flu.cc
 flyspam.com
 footard.com
 fosil.pro
-freedom4you.info
 freehotmail.net
 freeinbox.email
 freelance-france.eu
@@ -1892,7 +1890,6 @@ junkmail.ga
 just-email.com
 kamsg.com
 kaspop.com
-kazelink.ml
 kismail.ru
 korona-nedvizhimosti.ru
 koshu.ru
@@ -1996,7 +1993,6 @@ rejectmail.com
 rm2rf.com
 royandk.com
 rsvhr.com
-rudymail.ml
 rupayamail.com
 sandcars.net
 scatmail.com
@@ -2045,7 +2041,6 @@ tempomail.org
 temporary-mail.net
 temporaryemail.us
 tempthe.net
-thedirhq.info
 themostemail.com
 theroyalweb.club
 thraml.com
