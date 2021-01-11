@@ -1887,7 +1887,6 @@ kamsg.com
 kaspop.com
 kismail.ru
 korona-nedvizhimosti.ru
-koshu.ru
 koszmail.pl
 kulmeo.com
 kwilco.net
@@ -2013,7 +2012,6 @@ spamcowboy.com
 spamcowboy.net
 spamcowboy.org
 spamkill.info
-spamspot.com
 spamstack.net
 spamtroll.net
 spamwc.ga
