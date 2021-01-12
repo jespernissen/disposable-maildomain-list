@@ -1473,7 +1473,6 @@ nonspammer.de
 eay.jp
 12hosting.net
 2odem.com
-asu.su
 myspamless.com
 stathost.net
 nezdiro.org
@@ -1519,7 +1518,6 @@ shieldemail.com
 nonspam.eu
 mji.ro
 mailde.de
-nullbox.info
 mailtv.tv
 dodgeit.com
 memsg.top
