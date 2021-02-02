@@ -1844,7 +1844,6 @@ himail.online
 hmh.ro
 hoanglong.tech
 hostguru.top
-hot-mail.gq
 icx.ro
 idx4.com
 ieatspam.eu
@@ -1890,7 +1889,6 @@ mail1web.org
 mail21.cc
 mail333.com
 mailapp.top
-mailbox52.ga
 mailbox92.biz
 mailboxy.fun
 maildx.com
@@ -1914,7 +1912,6 @@ migmail.net
 mohmal.com
 molms.com
 moreawesomethanyou.com
-morriesworld.ml
 moruzza.com
 muchomail.com
 myemailboxy.com
@@ -1993,7 +1990,6 @@ spamcowboy.org
 spamkill.info
 spamstack.net
 spamtroll.net
-spamwc.ga
 spindl-e.com
 stanfordujjain.com
 starpower.space
@@ -2032,7 +2028,6 @@ trayna.com
 tryninja.io
 tryzoe.com
 ttirv.org
-ttszuo.xyz
 txtadvertise.com
 tympe.net
 uber-mail.com
