@@ -127,7 +127,6 @@ spammotel.com
 spamslicer.com
 spamthis.co.uk
 speed.1s.fr
-supermailer.jp
 tempe-mail.com
 TempEMail.net
 tempinbox.co.uk
@@ -224,7 +223,6 @@ grr.la
 guerrillamail.info
 gustr.com
 harakirimail.com
-hartbot.de
 ikbenspamvrij.nl
 imgv.de
 imstations.com
