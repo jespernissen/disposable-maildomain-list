@@ -1645,7 +1645,6 @@ ee2.pl
 email-fake.com
 emaillime.com
 emailtech.info
-emeraldwebmail.com
 extremail.ru
 fakemail.fr
 fangoh.com
