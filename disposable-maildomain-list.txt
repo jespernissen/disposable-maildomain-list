@@ -1038,12 +1038,10 @@ ruru.be
 tm2mail.com
 fakeinbox.info
 7mail.ml
-akerd.com
 bladesmail.net
 blogmyway.org
 divismail.ru
 drdrb.net
-dropcake.de
 emall.ir
 flurred.com
 hopemail.biz
@@ -1181,7 +1179,6 @@ rao.kr
 rko.kr
 row.kr
 shuffle.email
-skrx.tk
 tempmail.pro
 tko.kr
 tmails.net
