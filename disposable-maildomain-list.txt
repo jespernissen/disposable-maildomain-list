@@ -1811,7 +1811,6 @@ inboxed.pw
 inboxproxy.com
 inclusiveprogress.com
 iroid.com
-jaqis.com
 jmail.ovh
 jnxjn.com
 joseihorumon.info
@@ -1891,9 +1890,7 @@ oranek.com
 owlpic.com
 ozyl.de
 pachilly.com
-parlimentpetitioner.tk
 patonce.com
-pe.hu
 pecinan.com
 pecinan.net
 pecinan.org
@@ -1903,12 +1900,10 @@ profast.top
 promailt.com
 prtshr.com
 pwrby.com
-qisdo.com
 qmrbe.com
 quick-mail.cc
 qvy.me
 raketenmann.de
-regspaces.tk
 rejectmail.com
 rm2rf.com
 royandk.com
@@ -1919,7 +1914,6 @@ scatmail.com
 scrsot.com
 securehost.com.es
 selfdestructingmail.org
-shitaway.tk
 sinfiltro.cl
 sjuaq.com
 slopsbox.com
@@ -1980,7 +1974,6 @@ tympe.net
 uber-mail.com
 uiu.us
 usa.cc
-vaasfc4.tk
 vctel.com
 vda.ro
 veanlo.com
