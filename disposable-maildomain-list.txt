@@ -9,7 +9,6 @@ a-bc.net
 antichef.com
 antichef.net
 antispam.de
-baxomale.ht.cx
 beefmilk.com
 binkmail.com
 bobmail.info
@@ -68,7 +67,6 @@ mailnesia.com
 mailnull.com
 mailsiphon.com
 mailzilla.com
-mega.zik.dj
 messagebeamer.de
 moncourrier.fr.nf
 monemail.fr.nf
@@ -79,8 +77,6 @@ neomailbox.com
 nepwk.com
 nervtmich.net
 neverbox.com
-nomail.xl.cx
-nospam.ze.tc
 notmailinator.com
 nurfuerspam.de
 objectmail.com
@@ -126,7 +122,6 @@ spamify.com
 spammotel.com
 spamslicer.com
 spamthis.co.uk
-speed.1s.fr
 tempe-mail.com
 TempEMail.net
 tempinbox.co.uk
