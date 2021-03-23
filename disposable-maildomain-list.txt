@@ -1693,7 +1693,6 @@ romails.net
 80665.com
 abakiss.com
 acucre.com
-agedmail.com
 ajaxapp.net
 alpha-web.net
 amail1.com
@@ -1714,7 +1713,6 @@ bofthew.com
 brefmail.com
 budaya-tionghoa.com
 budayationghoa.com
-buffemail.com
 burnthespam.info
 burstmail.info
 cachedot.net
@@ -1726,7 +1724,6 @@ coldemail.info
 conf.work
 cszbl.com
 cust.in
-cutout.club
 daabox.com
 daily-email.com
 daymailonline.com
