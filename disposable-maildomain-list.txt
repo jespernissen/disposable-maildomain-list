@@ -1740,12 +1740,10 @@ emaildrop.io
 emailproxsy.com
 emailz.ml
 eoffice.top
-ericjohnson.ml
 ezehe.com
 faecesmail.me
 fakeinbox.cf
 flu.cc
-flyspam.com
 footard.com
 fosil.pro
 freelance-france.eu
@@ -1765,7 +1763,6 @@ hidebusiness.xyz
 hiltonvr.com
 himail.online
 hmh.ro
-hoanglong.tech
 hostguru.top
 icx.ro
 idx4.com
@@ -1778,7 +1775,6 @@ imailt.com
 inbax.tk
 inboxclean.com
 inboxed.pw
-inboxproxy.com
 inclusiveprogress.com
 iroid.com
 jmail.ovh
