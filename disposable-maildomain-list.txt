@@ -1731,7 +1731,6 @@ email-lab.com
 emailate.com
 emaildrop.io
 emailproxsy.com
-emailz.ml
 eoffice.top
 ezehe.com
 faecesmail.me
@@ -1815,7 +1814,6 @@ mailt.top
 mailtemp.info
 meantinc.com
 meinspamschutz.de
-memsg.site
 mfsa.info
 migmail.net
 mohmal.com
@@ -1826,15 +1824,11 @@ muchomail.com
 myemailboxy.com
 mymail90.com
 mytempmail.com
-mywrld.site
-mywrld.top
 nada.email
 nada.ltd
 nbzmr.com
 newmail.top
 nobugmail.com
-nogmailspam.info
-nomorespamemails.com
 nospam4.us
 nut.cc
 nyrmusic.com
@@ -1877,10 +1871,8 @@ soodomail.com
 spamail.de
 spamarrest.com
 spambob.net
-spambob.org
 spambog.net
 spambox.me
-spamcero.com
 spamcorptastic.com
 spamcowboy.com
 spamcowboy.net
