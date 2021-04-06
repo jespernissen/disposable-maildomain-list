@@ -1163,7 +1163,6 @@ qbi.kr
 rao.kr
 rko.kr
 row.kr
-shuffle.email
 tempmail.pro
 tko.kr
 tmails.net
