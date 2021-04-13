@@ -1292,7 +1292,6 @@ podam.pl
 reftoken.net
 rxtx.us
 ryanb.com
-sdf.org
 showme.social
 slsrs.ru
 stealthypost.org
