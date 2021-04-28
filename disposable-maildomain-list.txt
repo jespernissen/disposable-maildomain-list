@@ -1779,7 +1779,6 @@ mailox.fun
 mailpick.biz
 mailrock.biz
 mailshell.com
-mailshiv.com
 mailslapping.com
 mailt.top
 mailtemp.info
@@ -1815,7 +1814,6 @@ pecinan.com
 pecinan.net
 pecinan.org
 powerencry.com
-primabananen.net
 profast.top
 promailt.com
 prtshr.com
