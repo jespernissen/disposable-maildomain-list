@@ -634,7 +634,6 @@ server.ms
 sin.cl
 smtp99.com
 spambox.org
-spr.io
 starlight-breaker.net
 svxr.org
 techemail.com
