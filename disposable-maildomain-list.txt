@@ -1024,7 +1024,6 @@ recyclemail.dk
 shut.name
 shut.ws
 spambooger.com
-stop-my-spam.com
 techgroup.me
 tempymail.com
 throam.com
