@@ -1733,7 +1733,6 @@ mailinator.us
 mailme.lv
 mailox.fun
 mailpick.biz
-mailrock.biz
 mailshell.com
 mailslapping.com
 mailt.top
@@ -1816,7 +1815,6 @@ thraml.com
 thunderbolt.science
 tmpemails.com
 tokenmail.de
-toomail.biz
 top101.de
 topmail2.com
 topmail2.net
