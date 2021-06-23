@@ -913,7 +913,6 @@ jil.kr
 clickanerd.net
 hidemyass.com
 just4spam.com
-mailf5.com
 sapya.com
 smoug.net
 spamwc.de
@@ -943,7 +942,6 @@ www.hotmail.co.kr.vay.kr
 mail.office365.com.vay.kr
 www.hanmail.net.vay.kr
 anoniem.email
-exmail.io
 getnada.com
 dfg6.kozow.com
 vssms.com
@@ -1001,7 +999,6 @@ fakeinbox.info
 7mail.ml
 bladesmail.net
 blogmyway.org
-divismail.ru
 drdrb.net
 emall.ir
 flurred.com
