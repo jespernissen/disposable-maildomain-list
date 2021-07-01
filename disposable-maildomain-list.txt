@@ -1689,7 +1689,6 @@ hostguru.top
 icx.ro
 idx4.com
 ieatspam.eu
-iencm.com
 igg.biz
 imail1.net
 imailt.com
@@ -1729,7 +1728,6 @@ mailpick.biz
 mailshell.com
 mailslapping.com
 mailt.top
-mailtemp.info
 meantinc.com
 meinspamschutz.de
 mfsa.info
@@ -1765,7 +1763,6 @@ prtshr.com
 pwrby.com
 qmrbe.com
 quick-mail.cc
-qvy.me
 raketenmann.de
 rejectmail.com
 rm2rf.com
@@ -1777,7 +1774,6 @@ scrsot.com
 selfdestructingmail.org
 sjuaq.com
 slopsbox.com
-solvemail.info
 soodomail.com
 spamail.de
 spamarrest.com
