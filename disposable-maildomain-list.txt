@@ -1706,7 +1706,6 @@ mailboxy.fun
 maildx.com
 mailfs.com
 mailinator.us
-mailme.lv
 mailox.fun
 mailpick.biz
 mailshell.com
@@ -1778,7 +1777,6 @@ streetwisemail.com
 swift-mail.net
 tastrg.com
 teerest.com
-tempmail.ws
 tempmailo.com
 temporary-mail.net
 temporaryemail.us
