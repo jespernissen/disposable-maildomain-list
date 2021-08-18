@@ -495,7 +495,6 @@ xwaretech.info
 xwaretech.net
 yourlms.biz
 yui.it
-zane.rocks
 zepp.dk
 zxcxc.com
 urfey.com
@@ -615,7 +614,6 @@ qsl.ro
 ra3.us
 rabin.ca
 redfeathercrow.com
-remarkable.rocks
 risingsuntouch.com
 ro.lt
 rowe-solutions.com
