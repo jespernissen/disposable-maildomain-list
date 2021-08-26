@@ -908,7 +908,6 @@ smoug.net
 spamwc.de
 candymail.de
 trash247.com
-trashemails.de
 sector2.org
 www.nate.com.bfo.kr
 crapmail.dk
@@ -996,7 +995,6 @@ hotmial.com
 instantemailaddress.com
 lackmail.net
 lags.us
-lukop.dk
 lokum.nu
 mailcat.biz
 maileimer.de
