@@ -1652,7 +1652,6 @@ fakeinbox.cf
 flu.cc
 footard.com
 freelance-france.eu
-gdmail.top
 get2mail.fr
 getsimpleemail.com
 ginzi.be
