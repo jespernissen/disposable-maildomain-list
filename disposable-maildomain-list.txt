@@ -780,7 +780,6 @@ pages.plusgoogle.com
 pontepedrita.com
 salesianospizarrales.com
 calasanzvalencia.org
-mailistec.fr
 bizcox.net
 myrambler.ru
 autorambler.ru
@@ -828,7 +827,6 @@ kliogio.ru
 globomail.com
 heras.es
 kf6.ru
-marcasvq.es
 vdl.pl
 gesemweb.net
 et88.net
@@ -840,7 +838,6 @@ cyfroland.ru
 wo.tc
 toneapi.com
 iesvalltenes.cat
-social-monitoring.ru
 labelsystems.es
 labelsystems.eu
 colegiolosrosales.net
