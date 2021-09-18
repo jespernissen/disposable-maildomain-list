@@ -1641,7 +1641,6 @@ emaildrop.io
 emailproxsy.com
 eoffice.top
 faecesmail.me
-fakeinbox.cf
 flu.cc
 footard.com
 freelance-france.eu
@@ -1677,7 +1676,6 @@ lerbhe.com
 lhsdv.com
 ligsb.com
 linshiyouxiang.net
-magamail.com
 mail-help.net
 mail-now.top
 mail-share.com
@@ -1764,7 +1762,6 @@ tempmailo.com
 temporary-mail.net
 temporaryemail.us
 thraml.com
-thunderbolt.science
 tmpemails.com
 tokenmail.de
 top101.de
