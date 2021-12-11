@@ -943,8 +943,6 @@ mohmal.in
 via.tokyo.jp
 0-mail.com
 afrobacon.com
-courrieltemporaire.com
-ephemail.net
 hotpop.com
 kulturbetrieb.info
 mail2rss.org
@@ -952,7 +950,6 @@ nwldx.com
 pookmail.com
 rmqkr.net
 rppkn.com
-skeefmail.com
 spambox.us
 spamobox.com
 teleworm.com
@@ -1010,7 +1007,6 @@ hu4ht.com
 2anom.com
 55hosting.net
 apkmd.com
-binnary.com
 btizet.pl
 cheaphub.net
 cocovpn.com
@@ -1162,7 +1158,6 @@ tmpmail.org
 trashmail.io
 wegwerfemail.info
 555gmail.com
-icloid.com
 fakemail.com
 10vpn.info
 4nmv.ru
