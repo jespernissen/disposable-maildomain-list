@@ -365,8 +365,6 @@ f4k.es
 faithkills.org
 faze.biz
 fingermouse.org
-flowu.com
-flyinggeek.net
 fuckedupload.com
 fun2.biz
 fyii.de
@@ -476,10 +474,8 @@ uwork4.us
 verdejo.com
 vinernet.com
 viralplays.com
-vmani.com
 wasteland.rfc822.org
 wg0.com
-wimsg.com
 x24.com
 xjoi.com
 xn--9kq967o.com
@@ -587,7 +583,6 @@ naver.com
 negated.com
 netricity.nl
 okzk.com
-omail.pro
 onet.pl
 oroki.de
 ourpreviewdomain.com
