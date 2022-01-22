@@ -610,7 +610,6 @@ sin.cl
 smtp99.com
 spambox.org
 starlight-breaker.net
-svxr.org
 techemail.com
 thediamants.org
 thex.ro
