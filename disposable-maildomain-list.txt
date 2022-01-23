@@ -1513,7 +1513,6 @@ securemail.flu.cc
 shotmail.ru
 slipry.net
 soodmail.com
-spamdecoy.net
 stromox.com
 temp-mail.ru
 thc.st
