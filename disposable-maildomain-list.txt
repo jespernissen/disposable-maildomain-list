@@ -1642,7 +1642,6 @@ moruzza.com
 muchomail.com
 myemailboxy.com
 mymail90.com
-nada.email
 nada.ltd
 newmail.top
 nobugmail.com
@@ -1686,7 +1685,6 @@ spamcowboy.org
 spamstack.net
 spamtroll.net
 spindl-e.com
-stanfordujjain.com
 starpower.space
 stexsy.com
 streetwisemail.com
@@ -1698,7 +1696,6 @@ temporary-mail.net
 temporaryemail.us
 thraml.com
 tmpemails.com
-tokenmail.de
 top101.de
 topmail2.com
 topmail2.net
