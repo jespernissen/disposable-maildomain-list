@@ -1368,7 +1368,6 @@ o.spamtrap.ro
 www.barryogorman.com
 i.xcode.ro
 gmil.com
-nic.aupet.it
 amiri.net
 chogmail.com
 dandikmail.com
