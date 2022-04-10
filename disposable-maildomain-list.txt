@@ -463,7 +463,6 @@ verdejo.com
 vinernet.com
 viralplays.com
 wasteland.rfc822.org
-x24.com
 xjoi.com
 xn--9kq967o.com
 xwaretech.info
@@ -532,7 +531,6 @@ garbagemail.org
 geteit.com
 greggamel.com
 gynzy.eu
-hecat.es
 hmail.us
 hvastudiesucces.nl
 incq.com
