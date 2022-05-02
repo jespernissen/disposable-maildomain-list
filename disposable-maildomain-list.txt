@@ -585,7 +585,6 @@ samsclass.info
 scay.net
 seekapps.com
 server.ms
-sin.cl
 smtp99.com
 spambox.org
 starlight-breaker.net
