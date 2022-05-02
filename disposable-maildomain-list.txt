@@ -521,7 +521,6 @@ foxtrotter.info
 fr.nf
 freemail.hu
 ftp.sh
-ftpinc.ca
 fuirio.com
 gaggle.net
 galaxy.tv
