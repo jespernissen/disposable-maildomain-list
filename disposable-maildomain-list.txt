@@ -29,7 +29,6 @@ dumpandjunk.com
 e4ward.com
 emailinfive.com
 emailsensei.com
-emailwarden.com
 filzmail.com
 fr33mail.info
 gsrv.co.uk
@@ -160,7 +159,6 @@ emeil.ir
 21cn.com
 6ip.us
 abyssmail.com
-ahk.jp
 ano-mail.net
 anon.leemail.me
 armyspy.com
@@ -231,7 +229,6 @@ mypacks.net
 mytemp.email
 mytempemail.com
 nowhere.org
-opayq.com
 pcusers.otherinbox.com
 privymail.de
 reallymymail.com
