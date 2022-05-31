@@ -762,7 +762,6 @@ hu2.ru
 dezigner.ru
 c2kni.net
 openmail.cc
-rpocc.ru
 ufaopen.ru
 manchzhury.ru
 leet.la
@@ -787,7 +786,6 @@ cyfroland.ru
 wo.tc
 toneapi.com
 labelsystems.es
-labelsystems.eu
 colegiolosrosales.net
 csproject.org
 sanook.com
