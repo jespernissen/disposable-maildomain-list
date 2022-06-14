@@ -518,7 +518,6 @@ garbagemail.org
 geteit.com
 greggamel.com
 gynzy.eu
-hmail.us
 hvastudiesucces.nl
 incq.com
 ind.st
@@ -542,7 +541,6 @@ mailtemporaire.com
 mailtemporaire.fr
 mijnhva.nl
 ml8.ca
-mm5.se
 moeri.org
 moot.es
 motique.de
@@ -554,7 +552,6 @@ okzk.com
 onet.pl
 oroki.de
 ourpreviewdomain.com
-pii.at
 plhk.ru
 plw.me
 powered.name
