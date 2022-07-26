@@ -358,7 +358,6 @@ ignoremail.com
 ihaxyour.info
 infocom.zp.ua
 ip6.li
-jafps.com
 jamit.com.au
 jdmadventures.com
 jeramywebb.com
@@ -475,7 +474,6 @@ autotwollow.com
 azcomputerworks.com
 bauwerke-online.com
 bearsarefuzzy.com
-bot.nu
 businesssuccessislifesuccess.com
 cam4you.cc
 chickenkiller.com
