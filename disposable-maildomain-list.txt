@@ -358,7 +358,6 @@ ignoremail.com
 ihaxyour.info
 infocom.zp.ua
 ip6.li
-jamit.com.au
 jdmadventures.com
 jeramywebb.com
 jobs-to-be-done.net
@@ -425,7 +424,6 @@ sendfree.org
 senseless-entertainment.com
 slutty.horse
 statdvr.com
-super-auswahl.de
 tanukis.org
 tempmail.de
 tempmailer.de
@@ -484,7 +482,6 @@ de-a.org
 der-kombi.de
 derkombi.de
 derluxuswagen.de
-dob.jp
 dred.ru
 drevo.si
 easy-trash-mail.com
