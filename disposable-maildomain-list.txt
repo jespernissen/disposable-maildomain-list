@@ -159,7 +159,6 @@ aver.com
 barryogorman.com
 boun.cr
 boxformail.in
-boximail.com
 byom.de
 c2.hu
 cheatmail.de
@@ -206,7 +205,6 @@ mail-filter.com
 mail114.net
 mailforspam.com
 mailismagic.com
-mailmate.com
 mailme24.com
 mailsac.com
 mailtothis.com
