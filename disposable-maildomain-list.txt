@@ -42,7 +42,6 @@ iwi.net
 jetable.fr.nf
 jetable.net
 klassmaster.com
-klzlk.com
 kurzepost.de
 lol.ovpn.to
 lookugly.com
@@ -64,7 +63,6 @@ monmail.fr.nf
 mt2009.com
 mytrashmail.com
 neomailbox.com
-nepwk.com
 nervtmich.net
 notmailinator.com
 nurfuerspam.de
@@ -77,12 +75,10 @@ otherinbox.com
 ovpn.to
 privacy.net
 proxymail.eu
-prtnx.com
 PutThisInYourSpamDatabase.com
 quickinbox.com
 rcpt.at
 recursor.net
-rtrtr.com
 safe-mail.net
 safersignup.de
 safetymail.info
@@ -172,11 +168,9 @@ e-mail.com
 easytrashmail.com
 eelmail.com
 einrot.com
-emailgo.de
 emil.com
 eyepaste.com
 fakemailz.com
-fantasymail.de
 fatflap.com
 ficken.de
 fightallspam.com
@@ -202,7 +196,6 @@ mail-filter.com
 mail114.net
 mailforspam.com
 mailismagic.com
-mailme24.com
 mailsac.com
 mailtothis.com
 mailzi.ru
@@ -227,7 +220,6 @@ shitware.nl
 sinnlos-mail.de
 siteposter.net
 slippery.email
-smashmail.de
 spamfree.eu
 spoofmail.de
 spybox.de
