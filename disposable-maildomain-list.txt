@@ -1342,7 +1342,6 @@ dmarc.ro
 dnses.ro
 drdrb.com
 ee2.pl
-email-fake.com
 emaillime.com
 emailtech.info
 extremail.ru
