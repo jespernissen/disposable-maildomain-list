@@ -526,7 +526,6 @@ server.ms
 smtp99.com
 spambox.org
 starlight-breaker.net
-techemail.com
 thediamants.org
 thex.ro
 thnikka.com
