@@ -1323,7 +1323,6 @@ dlemail.ru
 dmarc.ro
 dnses.ro
 drdrb.com
-ee2.pl
 emaillime.com
 extremail.ru
 fangoh.com
@@ -1346,7 +1345,6 @@ lordsofts.com
 lukecarriere.com
 mailgutter.com
 mailinator.org
-mohmal.tech
 myzx.com
 nice-4u.com
 oneoffmail.com
