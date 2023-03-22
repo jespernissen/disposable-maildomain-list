@@ -1238,7 +1238,6 @@ wasd.dropmail.me
 mailhex.com
 o.opendns.ro
 mailed.ro
-hotmil.com
 mail-space.net
 o.spamtrap.ro
 www.barryogorman.com
