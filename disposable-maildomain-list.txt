@@ -84,7 +84,6 @@ shitmail.me
 shortmail.net
 smellfear.com
 sneakemail.com
-sofort-mail.de
 sogetthis.com
 spamavert.com
 spambog.com
@@ -234,7 +233,6 @@ temp-mail.de
 temp-mail.org
 tempail.com
 tempmaildemo.com
-tempmailer.com
 thrott.com
 username.e4ward.com
 vfemail.net
