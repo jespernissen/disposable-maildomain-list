@@ -1307,7 +1307,6 @@ ctos.ch
 dcemail.com
 dhm.ro
 dlemail.ru
-dmarc.ro
 dnses.ro
 drdrb.com
 emaillime.com
