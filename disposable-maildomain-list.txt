@@ -57,8 +57,6 @@ messagebeamer.de
 moncourrier.fr.nf
 monemail.fr.nf
 monmail.fr.nf
-mt2009.com
-mytrashmail.com
 neomailbox.com
 nervtmich.net
 notmailinator.com
@@ -102,17 +100,14 @@ spamthis.co.uk
 tempe-mail.com
 TempEMail.net
 temporarioemail.com.br
-thankyou2010.com
 thisisnotmyrealemail.com
 trash-mail.at
-trash2009.com
 trashmail.at
 trashmail.com
 trashmail.de
 trashmail.me
 trashmail.net
 trashmail.org
-trashymail.com
 trillianpro.com
 twinmail.de
 veryrealemail.com
