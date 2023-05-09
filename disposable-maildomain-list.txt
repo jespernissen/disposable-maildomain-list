@@ -1355,7 +1355,6 @@ gruz-m.ru
 guerillamail.biz
 heros3.com
 hidebusiness.xyz
-himail.online
 icx.ro
 idx4.com
 ieatspam.eu
@@ -1373,8 +1372,6 @@ lhsdv.com
 ligsb.com
 linshiyouxiang.net
 mail-help.net
-mail-now.top
-mail1.top
 mail1web.org
 mail21.cc
 mailapp.top
@@ -1394,11 +1391,9 @@ mohmal.com
 moruzza.com
 muchomail.com
 myemailboxy.com
-nada.ltd
 newmail.top
 nobugmail.com
 nospam4.us
-one-mail.top
 onqin.com
 promailt.com
 pwrby.com
@@ -1428,7 +1423,6 @@ temporaryemail.us
 thraml.com
 top101.de
 topmail2.com
-topmail2.net
 trash2010.com
 trashcanmail.com
 trashmailgenerator.de
