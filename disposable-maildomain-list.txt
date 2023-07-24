@@ -14,7 +14,6 @@ binkmail.com
 bobmail.info
 bsnow.net
 bumpymail.com
-courriel.fr.nf
 curryworld.de
 dayrep.com
 devnullmail.com
@@ -25,7 +24,6 @@ dispostable.com
 dodgit.com
 e4ward.com
 emailinfive.com
-filzmail.com
 fr33mail.info
 guerrillamail.biz
 guerrillamail.com
@@ -42,7 +40,6 @@ jetable.net
 klassmaster.com
 kurzepost.de
 lookugly.com
-lortemail.dk
 lr78.com
 mail-temporaire.fr
 mailinater.com
@@ -50,7 +47,6 @@ mailinator.com
 mailinator.net
 mailincubator.com
 mailmoat.com
-mailnesia.com
 mailnull.com
 mailzilla.com
 messagebeamer.de
@@ -74,7 +70,6 @@ quickinbox.com
 rcpt.at
 recursor.net
 safe-mail.net
-safersignup.de
 safetymail.info
 SendSpamHere.com
 sharklasers.com
@@ -118,7 +113,6 @@ wronghead.com
 wwwnew.eu
 xemaps.com
 xoxy.net
-yopmail.com
 yopmail.fr
 yopmail.net
 zippymail.info
@@ -159,7 +153,6 @@ fakemailz.com
 fatflap.com
 ficken.de
 fightallspam.com
-flashbox.5july.org
 fleckens.hu
 freundin.ru
 gelitik.in
