@@ -623,7 +623,6 @@ officials.co.uk
 bluesfans.co.uk
 rumpypumpy.net
 ukdancers.com
-ukcompanies.org
 lifefriend.com
 uknurses.com
 sailors.co.uk
@@ -661,10 +660,8 @@ et88.net
 crabdance.com
 cafe24.com
 seon.ws
-cyfroland.ru
 wo.tc
 toneapi.com
-labelsystems.es
 colegiolosrosales.net
 csproject.org
 sanook.com
