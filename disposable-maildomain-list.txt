@@ -479,7 +479,6 @@ samsclass.info
 scay.net
 seekapps.com
 server.ms
-smtp99.com
 spambox.org
 starlight-breaker.net
 thediamants.org
@@ -519,7 +518,6 @@ bin-wieder-da.de
 bleib-bei-mir.de
 brainonfire.net
 buerotiger.de
-centermail.at
 coole-files.de
 die-besten-bilder.de
 die-genossen.de
@@ -544,22 +542,16 @@ ich-bin-verrueckt-nach-dir.de
 ich-will-net.de
 ist-allein.info
 ist-einmalig.de
-ist-ganz-allein.de
 ist-willig.de
 iwantmyname.com
 jetable.de
 jetfix.ee
-junkmail.com
 kaffeeschluerfer.com
 kinglibrary.net
-kommespaeter.de
-lass-es-geschehen.de
 liebt-dich.info
 loveyouforever.de
 maennerversteherin.com
 mailinblack.com
-mailueberfall.de
-mamber.net
 meine-dateien.info
 meine-diashow.de
 meine-fotos.info
@@ -590,7 +582,6 @@ shared-files.de
 sms.at
 sonnenkinder.org
 sperke.net
-streber24.de
 terminverpennt.de
 tortenboxer.de
 turboprinz.de
