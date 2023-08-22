@@ -69,7 +69,6 @@ PutThisInYourSpamDatabase.com
 quickinbox.com
 rcpt.at
 recursor.net
-safe-mail.net
 safetymail.info
 SendSpamHere.com
 sharklasers.com
