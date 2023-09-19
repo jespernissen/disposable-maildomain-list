@@ -170,7 +170,6 @@ knol-power.nl
 lazyinbox.com
 mail-filter.com
 mailforspam.com
-mailismagic.com
 mailsac.com
 mailtothis.com
 mailzi.ru
