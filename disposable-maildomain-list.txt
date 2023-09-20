@@ -850,7 +850,6 @@ tempmail.pro
 tko.kr
 tmails.net
 toi.kr
-topmail-files.de
 uha.kr
 umy.kr
 uny.kr
@@ -876,7 +875,6 @@ mallinator.com
 mindless.com
 temp-mail.net
 wem.com
-yyhmail.com
 asorent.com
 anonymous-email.net
 imperfectron.com
