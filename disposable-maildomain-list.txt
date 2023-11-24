@@ -1204,7 +1204,6 @@ click-email.com
 conf.work
 cszbl.com
 daabox.com
-daily-email.com
 despammed.com
 dodgemail.de
 einmalmail.de
