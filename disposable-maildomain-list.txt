@@ -1098,7 +1098,6 @@ mailin8r.com
 nomail2me.com
 sofimail.com
 spambog.ru
-spamfree24.de
 spamfree24.info
 trash-amil.com
 yuurok.com
@@ -1121,9 +1120,7 @@ used-product.fr
 wazabi.club
 web-ideal.fr
 ethersportz.info
-10minutemail.co.uk
 10minutesmail.com
-12storage.com
 20mm.eu
 2ether.net
 30wave.com
