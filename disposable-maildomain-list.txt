@@ -602,8 +602,6 @@ shopkeepers.co.uk
 churchsociety.net
 chocoholic.org
 2.pl
-mosk.ru
-eml.ru
 nxt.ru
 programist.ru
 nextmail.ru
@@ -666,11 +664,8 @@ mail-tester.com
 nezzart.com
 vermutlich.net
 isdaq.com
-laoho.com
 itmtx.com
-tvchd.com
 glubex.com
-szerz.com
 5ymail.com
 15qm.com
 cookiecooker.de
