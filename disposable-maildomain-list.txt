@@ -228,16 +228,12 @@ yomail.info
 zxcvbnm.com
 zzz.com
 drivetagdev.com
-kusrc.com
 rkomo.com
 bk.ru
 kinozal.tv
 mainru.com
 o2.pl
 uacro.com
-sroff.com
-hezll.com
-psles.com
 emltmp.com
 3l6.com
 5july.org
@@ -374,9 +370,7 @@ yui.it
 zepp.dk
 zxcxc.com
 urfey.com
-ppetw.com
 cetpass.com
-erasf.com
 crankmails.com
 zhcne.com
 1usemail.com
