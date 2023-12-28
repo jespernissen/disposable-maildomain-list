@@ -226,7 +226,6 @@ yeah.net
 yomail.info
 zxcvbnm.com
 zzz.com
-drivetagdev.com
 rkomo.com
 bk.ru
 kinozal.tv
@@ -304,7 +303,6 @@ mail707.com
 mailtv.net
 mansiondev.com
 mastahype.net
-mhwolf.net
 midcoastcustoms.com
 mockmyid.com
 mohmal.im
