@@ -700,7 +700,6 @@ spamobox.com
 teleworm.com
 leeching.net
 turoid.com
-tmpmail.net
 ruru.be
 tm2mail.com
 bladesmail.net
@@ -754,7 +753,6 @@ janproz.com
 katztube.com
 lacedmail.com
 mailtraps.com
-moakt.co
 morsin.com
 mystvpn.com
 nbox.notif.me
@@ -772,7 +770,6 @@ listomail.com
 mailmoth.com
 robot-mail.com
 tempmail.pro
-tmails.net
 toi.kr
 wiz2.site
 zainmax.net
@@ -806,7 +803,6 @@ earth.doesntexist.org
 eboise.com
 storj99.com
 storj99.top
-tmpmail.org
 trashmail.io
 fakemail.com
 10vpn.info
