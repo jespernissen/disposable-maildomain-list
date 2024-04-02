@@ -972,7 +972,6 @@ wasd.dropmail.me
 mailhex.com
 o.opendns.ro
 mail-space.net
-o.spamtrap.ro
 www.barryogorman.com
 i.xcode.ro
 gmil.com
