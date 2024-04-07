@@ -968,7 +968,6 @@ hostcalls.com
 mailscheap.us
 wasd.dropmail.me
 mailhex.com
-o.opendns.ro
 mail-space.net
 www.barryogorman.com
 gmil.com
@@ -1020,7 +1019,6 @@ ctos.ch
 dcemail.com
 dhm.ro
 dlemail.ru
-dnses.ro
 drdrb.com
 emaillime.com
 extremail.ru
