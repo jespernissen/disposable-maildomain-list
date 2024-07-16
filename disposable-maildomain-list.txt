@@ -973,7 +973,6 @@ mailgov.info
 vektik.com
 banit.me
 tempmailaddress.com
-spamtrap.ro
 art-en-ligne.pro
 s-s.flu.cc
 solar-impact.pro
