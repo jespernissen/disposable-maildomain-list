@@ -601,7 +601,6 @@ sina.com
 vip.163.com
 vip.qq.com
 vip.sina.com
-mail2tor.com
 mail-tester.com
 vermutlich.net
 5ymail.com
