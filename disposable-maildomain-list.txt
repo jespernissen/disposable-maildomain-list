@@ -312,7 +312,6 @@ sd3.in
 sendfree.org
 statdvr.com
 tanukis.org
-temporarymailaddress.com
 thelimestones.com
 thespawningpool.com
 tmpjr.me
