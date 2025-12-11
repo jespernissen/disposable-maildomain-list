@@ -872,8 +872,6 @@ bestvpn.top
 mailgov.info
 vektik.com
 banit.me
-s-s.flu.cc
-txt.flu.cc
 2ether.net
 30wave.com
 672643.net
@@ -889,7 +887,6 @@ emaillime.com
 extremail.ru
 fangoh.com
 flemail.ru
-flu-cc.flu.cc
 fly-ts.de
 geldwaschmaschine.de
 j-p.us
@@ -901,7 +898,6 @@ nice-4u.com
 oneoffmail.com
 recipeforfailure.com
 rootfest.net
-securemail.flu.cc
 shotmail.ru
 slipry.net
 soodmail.com
