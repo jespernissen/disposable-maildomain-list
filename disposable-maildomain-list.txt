@@ -50,7 +50,6 @@ mailzilla.com
 moncourrier.fr.nf
 monemail.fr.nf
 monmail.fr.nf
-neomailbox.com
 nervtmich.net
 notmailinator.com
 nurfuerspam.de
@@ -172,7 +171,6 @@ mytempemail.com
 nowhere.org
 pcusers.otherinbox.com
 privymail.de
-rhyta.com
 royal.net
 shitmail.de
 shitmail.org
