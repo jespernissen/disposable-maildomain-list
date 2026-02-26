@@ -661,7 +661,6 @@ lacedmail.com
 mailtraps.com
 morsin.com
 mystvpn.com
-nbox.notif.me
 nypato.com
 obfusko.com
 qtum-ico.com
