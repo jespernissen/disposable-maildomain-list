@@ -353,7 +353,6 @@ film-blog.biz
 fr.nf
 freemail.hu
 gaggle.net
-galaxy.tv
 garbagemail.org
 greggamel.com
 indirect.ws
@@ -362,7 +361,6 @@ jpco.org
 kakadua.net
 kopagas.com
 lain.ch
-llogin.ru
 luckymail.org
 mail-temporaire.com
 mailtemporaire.com
