@@ -31,7 +31,6 @@ guerrillamail.net
 guerrillamail.org
 guerrillamailblock.com
 hatespam.org
-hidemail.de
 inboxclean.org
 iwi.net
 jetable.fr.nf
@@ -150,7 +149,6 @@ guerrillamail.info
 gustr.com
 harakirimail.com
 ikbenspamvrij.nl
-imgv.de
 imstations.com
 jourrapide.com
 mail-filter.com
