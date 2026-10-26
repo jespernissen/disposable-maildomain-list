@@ -161,7 +161,6 @@ migmail.pl
 my10minutemail.com
 mypacks.net
 mytemp.email
-mytempemail.com
 nowhere.org
 pcusers.otherinbox.com
 privymail.de
