@@ -9,13 +9,11 @@ antichef.com
 antichef.net
 antispam.de
 beefmilk.com
-binkmail.com
 bobmail.info
 bsnow.net
 bumpymail.com
 curryworld.de
 dayrep.com
-devnullmail.com
 dfgh.net
 digitalsanctuary.com
 discardmail.com
@@ -59,12 +57,10 @@ ordinaryamerican.net
 otherinbox.com
 privacy.net
 proxymail.eu
-PutThisInYourSpamDatabase.com
 quickinbox.com
 rcpt.at
 recursor.net
 safetymail.info
-SendSpamHere.com
 sharklasers.com
 shitmail.me
 smellfear.com
@@ -80,7 +76,6 @@ spamex.com
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
-SpamHerePlease.com
 spammotel.com
 spamthis.co.uk
 tempe-mail.com
